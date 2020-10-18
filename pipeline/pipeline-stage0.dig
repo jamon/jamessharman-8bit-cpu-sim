@@ -127,16 +127,6 @@
       <pos x="-640" y="320"/>
     </visualElement>
     <visualElement>
-      <elementName>In</elementName>
-      <elementAttributes>
-        <entry>
-          <string>Label</string>
-          <string>ClockIn</string>
-        </entry>
-      </elementAttributes>
-      <pos x="-740" y="60"/>
-    </visualElement>
-    <visualElement>
       <elementName>Tunnel</elementName>
       <elementAttributes>
         <entry>
@@ -1220,6 +1210,16 @@
       </elementAttributes>
       <pos x="-1160" y="-220"/>
     </visualElement>
+    <visualElement>
+      <elementName>Clock</elementName>
+      <elementAttributes>
+        <entry>
+          <string>Label</string>
+          <string>ClockIn</string>
+        </entry>
+      </elementAttributes>
+      <pos x="-940" y="60"/>
+    </visualElement>
   </visualElements>
   <wires>
     <wire>
@@ -1695,12 +1695,12 @@
       <p2 x="1260" y="380"/>
     </wire>
     <wire>
-      <p1 x="-740" y="60"/>
-      <p2 x="-700" y="60"/>
-    </wire>
-    <wire>
       <p1 x="-800" y="700"/>
       <p2 x="-780" y="700"/>
+    </wire>
+    <wire>
+      <p1 x="-940" y="60"/>
+      <p2 x="-700" y="60"/>
     </wire>
     <wire>
       <p1 x="100" y="520"/>
