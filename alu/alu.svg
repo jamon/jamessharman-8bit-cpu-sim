@@ -1,0 +1,332 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Digital by H.Neemann -->
+<!-- created: Sun Oct 18 18:54:32 CDT 2020 -->
+
+<svg
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   width="238.65mm"
+   height="101.1mm"
+   viewBox="-408 23 1591 674">
+<g stroke-linecap="square">
+<path d="M 760,320 L 800,320" stroke="#0000b2" stroke-width="4.0" fill="none"/>
+<path d="M -220,640 L -160,640" stroke="#0000b2" stroke-width="4.0" fill="none"/>
+<path d="M 760,160 L 800,160" stroke="#0000b2" stroke-width="4.0" fill="none"/>
+<path d="M -220,100 L -160,100" stroke="#0000b2" stroke-width="4.0" fill="none"/>
+<path d="M 760,100 L 800,100" stroke="#0000b2" stroke-width="4.0" fill="none"/>
+<path d="M 200,100 L 240,100" stroke="#0000b2" stroke-width="4.0" fill="none"/>
+<path d="M 1000,260 L 1040,260" stroke="#0000b2" stroke-width="4.0" fill="none"/>
+<path d="M 760,260 L 800,260" stroke="#0000b2" stroke-width="4.0" fill="none"/>
+<path d="M -220,420 L -160,420" stroke="#0000b2" stroke-width="4.0" fill="none"/>
+<path d="M -220,40 L -160,40" stroke="#0000b2" stroke-width="4.0" fill="none"/>
+<path d="M -220,680 L -160,680" stroke="#0000b2" stroke-width="4.0" fill="none"/>
+<path d="M -220,140 L -160,140" stroke="#0000b2" stroke-width="4.0" fill="none"/>
+<path d="M 760,140 L 800,140" stroke="#0000b2" stroke-width="4.0" fill="none"/>
+<path d="M 1000,300 L 1040,300" stroke="#0000b2" stroke-width="4.0" fill="none"/>
+<path d="M 760,300 L 800,300" stroke="#0000b2" stroke-width="4.0" fill="none"/>
+<path d="M 440,80 L 480,80" stroke="#0000b2" stroke-width="4.0" fill="none"/>
+<path d="M 200,80 L 240,80" stroke="#0000b2" stroke-width="4.0" fill="none"/>
+<path d="M 1000,80 L 1040,80" stroke="#0000b2" stroke-width="4.0" fill="none"/>
+<path d="M 760,80 L 800,80" stroke="#0000b2" stroke-width="4.0" fill="none"/>
+<path d="M -220,180 L -160,180" stroke="#0000b2" stroke-width="4.0" fill="none"/>
+<path d="M -220,340 L -160,340" stroke="#0000b2" stroke-width="4.0" fill="none"/>
+<path d="M 200,120 L 240,120" stroke="#0000b2" stroke-width="4.0" fill="none"/>
+<path d="M 760,120 L 800,120" stroke="#0000b2" stroke-width="4.0" fill="none"/>
+<path d="M 1000,280 L 1040,280" stroke="#0000b2" stroke-width="4.0" fill="none"/>
+<path d="M 760,280 L 800,280" stroke="#0000b2" stroke-width="4.0" fill="none"/>
+<path d="M -220,600 L -160,600" stroke="#0000b2" stroke-width="4.0" fill="none"/>
+<path d="M 440,60 L 480,60" stroke="#0000b2" stroke-width="4.0" fill="none"/>
+<path d="M 200,60 L 240,60" stroke="#0000b2" stroke-width="4.0" fill="none"/>
+<path d="M 760,60 L 800,60" stroke="#0000b2" stroke-width="4.0" fill="none"/>
+<path d="M 1000,60 L 1040,60" stroke="#0000b2" stroke-width="4.0" fill="none"/>
+<path d="M -220,220 L -160,220" stroke="#0000b2" stroke-width="4.0" fill="none"/>
+<path d="M -220,540 L -160,540" stroke="#0000b2" stroke-width="4.0" fill="none"/>
+<g>
+</g>
+<g>
+<path d="M 801,46 L 999,46 L 999,174 L 801,174 Z" stroke="#ffffb4" stroke-width="0.0" fill="#ffffb4" fill-opacity="0.7843137254901961"/>
+<path d="M 801,46 L 999,46 L 999,174 L 801,174 Z" stroke="#000000" stroke-width="4.0" fill="none"/>
+<path d="M 801,67 L 808,60 L 801,53" stroke="#000000" stroke-width="2.0" fill="none"/>
+<text text-anchor="start" x="811.0" y="66.75" fill="#808080" style="font-size:18px">ClockIn</text>
+<text text-anchor="start" x="804.0" y="86.75" fill="#808080" style="font-size:18px">CarryFlag</text>
+<text text-anchor="start" x="804.0" y="106.75" fill="#808080" style="font-size:18px">LHS</text>
+<text text-anchor="start" x="804.0" y="126.75" fill="#808080" style="font-size:18px">RHS</text>
+<text text-anchor="start" x="804.0" y="146.75" fill="#808080" style="font-size:18px">CarrySelectA</text>
+<text text-anchor="start" x="804.0" y="166.75" fill="#808080" style="font-size:18px">CarrySelectB</text>
+<text text-anchor="end" x="996.0" y="66.75" fill="#808080" style="font-size:18px">CarryOut</text>
+<text text-anchor="end" x="996.0" y="86.75" fill="#808080" style="font-size:18px">AdderOut</text>
+<text text-anchor="middle" x="900.0" y="191.5" fill="#808080" style="font-size:18px">Adder</text>
+<circle cx="800.0" cy="60.0" r="2.0" stroke="#0000b2" stroke-width="4.0" fill="#0000b2" />
+<circle cx="800.0" cy="80.0" r="2.0" stroke="#0000b2" stroke-width="4.0" fill="#0000b2" />
+<circle cx="800.0" cy="100.0" r="2.0" stroke="#0000b2" stroke-width="4.0" fill="#0000b2" />
+<circle cx="800.0" cy="120.0" r="2.0" stroke="#0000b2" stroke-width="4.0" fill="#0000b2" />
+<circle cx="800.0" cy="140.0" r="2.0" stroke="#0000b2" stroke-width="4.0" fill="#0000b2" />
+<circle cx="800.0" cy="160.0" r="2.0" stroke="#0000b2" stroke-width="4.0" fill="#0000b2" />
+<circle cx="1000.0" cy="60.0" r="2.0" stroke="#b20000" stroke-width="4.0" fill="#b20000" />
+<circle cx="1000.0" cy="80.0" r="2.0" stroke="#b20000" stroke-width="4.0" fill="#b20000" />
+</g>
+<g>
+<path d="M 241,46 L 439,46 L 439,134 L 241,134 Z" stroke="#ffffb4" stroke-width="0.0" fill="#ffffb4" fill-opacity="0.7843137254901961"/>
+<path d="M 241,46 L 439,46 L 439,134 L 241,134 Z" stroke="#000000" stroke-width="4.0" fill="none"/>
+<text text-anchor="start" x="244.0" y="66.75" fill="#808080" style="font-size:18px">SelectA</text>
+<text text-anchor="start" x="244.0" y="86.75" fill="#808080" style="font-size:18px">SelectB</text>
+<text text-anchor="start" x="244.0" y="106.75" fill="#808080" style="font-size:18px">LHSIn</text>
+<text text-anchor="start" x="244.0" y="126.75" fill="#808080" style="font-size:18px">CarryIn</text>
+<text text-anchor="end" x="436.0" y="66.75" fill="#808080" style="font-size:18px">CarryOut</text>
+<text text-anchor="end" x="436.0" y="86.75" fill="#808080" style="font-size:18px">LHSOut</text>
+<text text-anchor="middle" x="340.0" y="151.5" fill="#808080" style="font-size:18px">shift</text>
+<circle cx="240.0" cy="60.0" r="2.0" stroke="#0000b2" stroke-width="4.0" fill="#0000b2" />
+<circle cx="240.0" cy="80.0" r="2.0" stroke="#0000b2" stroke-width="4.0" fill="#0000b2" />
+<circle cx="240.0" cy="100.0" r="2.0" stroke="#0000b2" stroke-width="4.0" fill="#0000b2" />
+<circle cx="240.0" cy="120.0" r="2.0" stroke="#0000b2" stroke-width="4.0" fill="#0000b2" />
+<circle cx="440.0" cy="60.0" r="2.0" stroke="#b20000" stroke-width="4.0" fill="#b20000" />
+<circle cx="440.0" cy="80.0" r="2.0" stroke="#b20000" stroke-width="4.0" fill="#b20000" />
+</g>
+<g>
+<path d="M -251,85 L -221,85 L -221,115 L -251,115 Z" stroke="#000000" stroke-width="4.0" fill="none"/>
+<circle cx="-236.0" cy="100.0" r="9.0" stroke="#000000" stroke-width="4.0" fill="none" />
+<text text-anchor="end" x="-265.0" y="109.0" fill="#000000" style="font-size:24px"><tspan style="font-style:italic;">CarrySelectB</tspan></text>
+<circle cx="-220.0" cy="100.0" r="2.0" stroke="#b20000" stroke-width="4.0" fill="#b20000" />
+</g>
+<g>
+<path d="M -251,125 L -221,125 L -221,155 L -251,155 Z" stroke="#000000" stroke-width="4.0" fill="none"/>
+<circle cx="-236.0" cy="140.0" r="9.0" stroke="#000000" stroke-width="4.0" fill="none" />
+<text text-anchor="end" x="-265.0" y="149.0" fill="#000000" style="font-size:24px"><tspan style="font-style:italic;">CarrySelectA</tspan></text>
+<circle cx="-220.0" cy="140.0" r="2.0" stroke="#b20000" stroke-width="4.0" fill="#b20000" />
+</g>
+<g>
+<path d="M -251,325 L -221,325 L -221,355 L -251,355 Z" stroke="#000000" stroke-width="4.0" fill="none"/>
+<circle cx="-236.0" cy="340.0" r="9.0" stroke="#000000" stroke-width="4.0" fill="none" />
+<text text-anchor="end" x="-265.0" y="349.0" fill="#000000" style="font-size:24px"><tspan style="font-style:italic;">LHSIn</tspan></text>
+<circle cx="-220.0" cy="340.0" r="2.0" stroke="#b20000" stroke-width="4.0" fill="#b20000" />
+</g>
+<g>
+<circle cx="-144.0" cy="600.0" r="9.0" stroke="#000000" stroke-width="4.0" fill="none" />
+<circle cx="-144.0" cy="600.0" r="15.0" stroke="#000000" stroke-width="4.0" fill="none" />
+<text text-anchor="start" x="-115.0" y="609.0" fill="#000000" style="font-size:24px"><tspan style="font-style:italic;">ArithCarryFlag</tspan></text>
+<circle cx="-160.0" cy="600.0" r="2.0" stroke="#0000b2" stroke-width="4.0" fill="#0000b2" />
+</g>
+<g>
+<circle cx="-144.0" cy="540.0" r="9.0" stroke="#000000" stroke-width="4.0" fill="none" />
+<circle cx="-144.0" cy="540.0" r="15.0" stroke="#000000" stroke-width="4.0" fill="none" />
+<text text-anchor="start" x="-115.0" y="549.0" fill="#000000" style="font-size:24px"><tspan style="font-style:italic;">AdderOut</tspan></text>
+<circle cx="-160.0" cy="540.0" r="2.0" stroke="#0000b2" stroke-width="4.0" fill="#0000b2" />
+</g>
+<g>
+<path d="M -251,405 L -221,405 L -221,435 L -251,435 Z" stroke="#000000" stroke-width="4.0" fill="none"/>
+<circle cx="-236.0" cy="420.0" r="9.0" stroke="#000000" stroke-width="4.0" fill="none" />
+<text text-anchor="end" x="-265.0" y="429.0" fill="#000000" style="font-size:24px"><tspan style="font-style:italic;">RHSIn</tspan></text>
+<circle cx="-220.0" cy="420.0" r="2.0" stroke="#b20000" stroke-width="4.0" fill="#b20000" />
+</g>
+<g>
+<path d="M -251,25 L -221,25 L -221,55 L -251,55 Z" stroke="#000000" stroke-width="4.0" fill="none"/>
+<text text-anchor="end" x="-265.0" y="49.0" fill="#000000" style="font-size:24px">ClockIn</text>
+<path d="M -245,45 L -240,45 L -240,35 L -235,35 L -235,45 L -230,45 L -230,35 L -225,35" stroke="#000000" stroke-width="2.0" fill="none"/>
+<circle cx="-220.0" cy="40.0" r="2.0" stroke="#b20000" stroke-width="4.0" fill="#b20000" />
+</g>
+<g>
+<path d="M 801,246 L 999,246 L 999,334 L 801,334 Z" stroke="#ffffb4" stroke-width="0.0" fill="#ffffb4" fill-opacity="0.7843137254901961"/>
+<path d="M 801,246 L 999,246 L 999,334 L 801,334 Z" stroke="#000000" stroke-width="4.0" fill="none"/>
+<path d="M 801,267 L 808,260 L 801,253" stroke="#000000" stroke-width="2.0" fill="none"/>
+<text text-anchor="start" x="811.0" y="266.75" fill="#808080" style="font-size:18px">ClockIn</text>
+<text text-anchor="start" x="804.0" y="286.75" fill="#808080" style="font-size:18px">ArithCarryIn</text>
+<text text-anchor="start" x="804.0" y="306.75" fill="#808080" style="font-size:18px">DataIn</text>
+<text text-anchor="start" x="804.0" y="326.75" fill="#808080" style="font-size:18px">LogicCarryIn</text>
+<text text-anchor="end" x="996.0" y="266.75" fill="#808080" style="font-size:18px">ArithCarryFlag</text>
+<text text-anchor="end" x="996.0" y="286.75" fill="#808080" style="font-size:18px">ZeroFlag</text>
+<text text-anchor="end" x="996.0" y="306.75" fill="#808080" style="font-size:18px">LogicCarryFlag</text>
+<text text-anchor="middle" x="900.0" y="351.5" fill="#808080" style="font-size:18px">Flags</text>
+<circle cx="800.0" cy="260.0" r="2.0" stroke="#0000b2" stroke-width="4.0" fill="#0000b2" />
+<circle cx="800.0" cy="280.0" r="2.0" stroke="#0000b2" stroke-width="4.0" fill="#0000b2" />
+<circle cx="800.0" cy="300.0" r="2.0" stroke="#0000b2" stroke-width="4.0" fill="#0000b2" />
+<circle cx="800.0" cy="320.0" r="2.0" stroke="#0000b2" stroke-width="4.0" fill="#0000b2" />
+<circle cx="1000.0" cy="260.0" r="2.0" stroke="#b20000" stroke-width="4.0" fill="#b20000" />
+<circle cx="1000.0" cy="280.0" r="2.0" stroke="#b20000" stroke-width="4.0" fill="#b20000" />
+<circle cx="1000.0" cy="300.0" r="2.0" stroke="#b20000" stroke-width="4.0" fill="#b20000" />
+</g>
+<g>
+<path d="M 1040,260 L 1054,268 L 1054,252 Z" stroke="#000000" stroke-width="4.0" fill="none"/>
+<text text-anchor="start" x="1059.0" y="266.75" fill="#808080" style="font-size:18px">ArithCarryFlag</text>
+<circle cx="1040.0" cy="260.0" r="2.0" stroke="#0000b2" stroke-width="4.0" fill="#0000b2" />
+</g>
+<g>
+<path d="M 1040,280 L 1054,288 L 1054,272 Z" stroke="#000000" stroke-width="4.0" fill="none"/>
+<text text-anchor="start" x="1059.0" y="286.75" fill="#808080" style="font-size:18px">ZeroFlag</text>
+<circle cx="1040.0" cy="280.0" r="2.0" stroke="#0000b2" stroke-width="4.0" fill="#0000b2" />
+</g>
+<g>
+<path d="M -160,40 L -146,48 L -146,32 Z" stroke="#000000" stroke-width="4.0" fill="none"/>
+<text text-anchor="start" x="-141.0" y="46.75" fill="#808080" style="font-size:18px">ClockIn</text>
+<circle cx="-160.0" cy="40.0" r="2.0" stroke="#0000b2" stroke-width="4.0" fill="#0000b2" />
+</g>
+<g>
+<path d="M 200,120 L 186,112 L 186,128 Z" stroke="#000000" stroke-width="4.0" fill="none"/>
+<text text-anchor="end" x="181.0" y="126.75" fill="#808080" style="font-size:18px">LogicCarryFlag</text>
+<circle cx="200.0" cy="120.0" r="2.0" stroke="#0000b2" stroke-width="4.0" fill="#0000b2" />
+</g>
+<g>
+<path d="M 480,60 L 494,68 L 494,52 Z" stroke="#000000" stroke-width="4.0" fill="none"/>
+<text text-anchor="start" x="499.0" y="66.75" fill="#808080" style="font-size:18px">LogicCarry</text>
+<circle cx="480.0" cy="60.0" r="2.0" stroke="#0000b2" stroke-width="4.0" fill="#0000b2" />
+</g>
+<g>
+<path d="M 480,80 L 494,88 L 494,72 Z" stroke="#000000" stroke-width="4.0" fill="none"/>
+<text text-anchor="start" x="499.0" y="86.75" fill="#808080" style="font-size:18px">LHSOut</text>
+<circle cx="480.0" cy="80.0" r="2.0" stroke="#0000b2" stroke-width="4.0" fill="#0000b2" />
+</g>
+<g>
+<path d="M 200,100 L 186,92 L 186,108 Z" stroke="#000000" stroke-width="4.0" fill="none"/>
+<text text-anchor="end" x="181.0" y="106.75" fill="#808080" style="font-size:18px">LHS</text>
+<circle cx="200.0" cy="100.0" r="2.0" stroke="#0000b2" stroke-width="4.0" fill="#0000b2" />
+</g>
+<g>
+<path d="M 200,80 L 186,72 L 186,88 Z" stroke="#000000" stroke-width="4.0" fill="none"/>
+<text text-anchor="end" x="181.0" y="86.75" fill="#808080" style="font-size:18px">ShiftSelectB</text>
+<circle cx="200.0" cy="80.0" r="2.0" stroke="#0000b2" stroke-width="4.0" fill="#0000b2" />
+</g>
+<g>
+<path d="M 200,60 L 186,52 L 186,68 Z" stroke="#000000" stroke-width="4.0" fill="none"/>
+<text text-anchor="end" x="181.0" y="66.75" fill="#808080" style="font-size:18px">ShiftSelectA</text>
+<circle cx="200.0" cy="60.0" r="2.0" stroke="#0000b2" stroke-width="4.0" fill="#0000b2" />
+</g>
+<g>
+<path d="M 760,60 L 746,52 L 746,68 Z" stroke="#000000" stroke-width="4.0" fill="none"/>
+<text text-anchor="end" x="741.0" y="66.75" fill="#808080" style="font-size:18px">ClockIn</text>
+<circle cx="760.0" cy="60.0" r="2.0" stroke="#0000b2" stroke-width="4.0" fill="#0000b2" />
+</g>
+<g>
+<path d="M 1040,300 L 1054,308 L 1054,292 Z" stroke="#000000" stroke-width="4.0" fill="none"/>
+<text text-anchor="start" x="1059.0" y="306.75" fill="#808080" style="font-size:18px">LogicCarryFlag</text>
+<circle cx="1040.0" cy="300.0" r="2.0" stroke="#0000b2" stroke-width="4.0" fill="#0000b2" />
+</g>
+<g>
+<path d="M 760,260 L 746,252 L 746,268 Z" stroke="#000000" stroke-width="4.0" fill="none"/>
+<text text-anchor="end" x="741.0" y="266.75" fill="#808080" style="font-size:18px">ClockIn</text>
+<circle cx="760.0" cy="260.0" r="2.0" stroke="#0000b2" stroke-width="4.0" fill="#0000b2" />
+</g>
+<g>
+<path d="M 760,320 L 746,312 L 746,328 Z" stroke="#000000" stroke-width="4.0" fill="none"/>
+<text text-anchor="end" x="741.0" y="326.75" fill="#808080" style="font-size:18px">LogicCarry</text>
+<circle cx="760.0" cy="320.0" r="2.0" stroke="#0000b2" stroke-width="4.0" fill="#0000b2" />
+</g>
+<g>
+<path d="M 760,280 L 746,272 L 746,288 Z" stroke="#000000" stroke-width="4.0" fill="none"/>
+<text text-anchor="end" x="741.0" y="286.75" fill="#808080" style="font-size:18px">ArithCarry</text>
+<circle cx="760.0" cy="280.0" r="2.0" stroke="#0000b2" stroke-width="4.0" fill="#0000b2" />
+</g>
+<g>
+<path d="M 1040,60 L 1054,68 L 1054,52 Z" stroke="#000000" stroke-width="4.0" fill="none"/>
+<text text-anchor="start" x="1059.0" y="66.75" fill="#808080" style="font-size:18px">ArithCarry</text>
+<circle cx="1040.0" cy="60.0" r="2.0" stroke="#0000b2" stroke-width="4.0" fill="#0000b2" />
+</g>
+<g>
+<path d="M 1040,80 L 1054,88 L 1054,72 Z" stroke="#000000" stroke-width="4.0" fill="none"/>
+<text text-anchor="start" x="1059.0" y="86.75" fill="#808080" style="font-size:18px">Data</text>
+<circle cx="1040.0" cy="80.0" r="2.0" stroke="#0000b2" stroke-width="4.0" fill="#0000b2" />
+</g>
+<g>
+<path d="M 760,300 L 746,292 L 746,308 Z" stroke="#000000" stroke-width="4.0" fill="none"/>
+<text text-anchor="end" x="741.0" y="306.75" fill="#808080" style="font-size:18px">Data</text>
+<circle cx="760.0" cy="300.0" r="2.0" stroke="#0000b2" stroke-width="4.0" fill="#0000b2" />
+</g>
+<g>
+<path d="M 760,80 L 746,72 L 746,88 Z" stroke="#000000" stroke-width="4.0" fill="none"/>
+<text text-anchor="end" x="741.0" y="86.75" fill="#808080" style="font-size:18px">ArithCarryFlag</text>
+<circle cx="760.0" cy="80.0" r="2.0" stroke="#0000b2" stroke-width="4.0" fill="#0000b2" />
+</g>
+<g>
+<path d="M 760,100 L 746,92 L 746,108 Z" stroke="#000000" stroke-width="4.0" fill="none"/>
+<text text-anchor="end" x="741.0" y="106.75" fill="#808080" style="font-size:18px">LHSOut</text>
+<circle cx="760.0" cy="100.0" r="2.0" stroke="#0000b2" stroke-width="4.0" fill="#0000b2" />
+</g>
+<g>
+<path d="M -220,540 L -234,532 L -234,548 Z" stroke="#000000" stroke-width="4.0" fill="none"/>
+<text text-anchor="end" x="-239.0" y="546.75" fill="#808080" style="font-size:18px">Data</text>
+<circle cx="-220.0" cy="540.0" r="2.0" stroke="#0000b2" stroke-width="4.0" fill="#0000b2" />
+</g>
+<g>
+<circle cx="-144.0" cy="640.0" r="9.0" stroke="#000000" stroke-width="4.0" fill="none" />
+<circle cx="-144.0" cy="640.0" r="15.0" stroke="#000000" stroke-width="4.0" fill="none" />
+<text text-anchor="start" x="-115.0" y="649.0" fill="#000000" style="font-size:24px"><tspan style="font-style:italic;">LogicCarryFlag</tspan></text>
+<circle cx="-160.0" cy="640.0" r="2.0" stroke="#0000b2" stroke-width="4.0" fill="#0000b2" />
+</g>
+<g>
+<circle cx="-144.0" cy="680.0" r="9.0" stroke="#000000" stroke-width="4.0" fill="none" />
+<circle cx="-144.0" cy="680.0" r="15.0" stroke="#000000" stroke-width="4.0" fill="none" />
+<text text-anchor="start" x="-115.0" y="689.0" fill="#000000" style="font-size:24px"><tspan style="font-style:italic;">ZeroFlag</tspan></text>
+<circle cx="-160.0" cy="680.0" r="2.0" stroke="#0000b2" stroke-width="4.0" fill="#0000b2" />
+</g>
+<g>
+<path d="M -220,600 L -234,592 L -234,608 Z" stroke="#000000" stroke-width="4.0" fill="none"/>
+<text text-anchor="end" x="-239.0" y="606.75" fill="#808080" style="font-size:18px">ArithCarryFlag</text>
+<circle cx="-220.0" cy="600.0" r="2.0" stroke="#0000b2" stroke-width="4.0" fill="#0000b2" />
+</g>
+<g>
+<path d="M -220,680 L -234,672 L -234,688 Z" stroke="#000000" stroke-width="4.0" fill="none"/>
+<text text-anchor="end" x="-239.0" y="686.75" fill="#808080" style="font-size:18px">ZeroFlag</text>
+<circle cx="-220.0" cy="680.0" r="2.0" stroke="#0000b2" stroke-width="4.0" fill="#0000b2" />
+</g>
+<g>
+<path d="M -220,640 L -234,632 L -234,648 Z" stroke="#000000" stroke-width="4.0" fill="none"/>
+<text text-anchor="end" x="-239.0" y="646.75" fill="#808080" style="font-size:18px">LogicCarryFlag</text>
+<circle cx="-220.0" cy="640.0" r="2.0" stroke="#0000b2" stroke-width="4.0" fill="#0000b2" />
+</g>
+<g>
+<path d="M -251,165 L -221,165 L -221,195 L -251,195 Z" stroke="#000000" stroke-width="4.0" fill="none"/>
+<circle cx="-236.0" cy="180.0" r="9.0" stroke="#000000" stroke-width="4.0" fill="none" />
+<text text-anchor="end" x="-265.0" y="189.0" fill="#000000" style="font-size:24px"><tspan style="font-style:italic;">ShiftSelectB</tspan></text>
+<circle cx="-220.0" cy="180.0" r="2.0" stroke="#b20000" stroke-width="4.0" fill="#b20000" />
+</g>
+<g>
+<path d="M -251,205 L -221,205 L -221,235 L -251,235 Z" stroke="#000000" stroke-width="4.0" fill="none"/>
+<circle cx="-236.0" cy="220.0" r="9.0" stroke="#000000" stroke-width="4.0" fill="none" />
+<text text-anchor="end" x="-265.0" y="229.0" fill="#000000" style="font-size:24px"><tspan style="font-style:italic;">ShiftSelectA</tspan></text>
+<circle cx="-220.0" cy="220.0" r="2.0" stroke="#b20000" stroke-width="4.0" fill="#b20000" />
+</g>
+<g>
+<path d="M -160,180 L -146,188 L -146,172 Z" stroke="#000000" stroke-width="4.0" fill="none"/>
+<text text-anchor="start" x="-141.0" y="186.75" fill="#808080" style="font-size:18px">ShiftSelectB</text>
+<circle cx="-160.0" cy="180.0" r="2.0" stroke="#0000b2" stroke-width="4.0" fill="#0000b2" />
+</g>
+<g>
+<path d="M -160,220 L -146,228 L -146,212 Z" stroke="#000000" stroke-width="4.0" fill="none"/>
+<text text-anchor="start" x="-141.0" y="226.75" fill="#808080" style="font-size:18px">ShiftSelectA</text>
+<circle cx="-160.0" cy="220.0" r="2.0" stroke="#0000b2" stroke-width="4.0" fill="#0000b2" />
+</g>
+<g>
+<path d="M -160,100 L -146,108 L -146,92 Z" stroke="#000000" stroke-width="4.0" fill="none"/>
+<text text-anchor="start" x="-141.0" y="106.75" fill="#808080" style="font-size:18px">CarrySelectB</text>
+<circle cx="-160.0" cy="100.0" r="2.0" stroke="#0000b2" stroke-width="4.0" fill="#0000b2" />
+</g>
+<g>
+<path d="M -160,140 L -146,148 L -146,132 Z" stroke="#000000" stroke-width="4.0" fill="none"/>
+<text text-anchor="start" x="-141.0" y="146.75" fill="#808080" style="font-size:18px">CarrySelectA</text>
+<circle cx="-160.0" cy="140.0" r="2.0" stroke="#0000b2" stroke-width="4.0" fill="#0000b2" />
+</g>
+<g>
+<path d="M 760,160 L 746,152 L 746,168 Z" stroke="#000000" stroke-width="4.0" fill="none"/>
+<text text-anchor="end" x="741.0" y="166.75" fill="#808080" style="font-size:18px">CarrySelectB</text>
+<circle cx="760.0" cy="160.0" r="2.0" stroke="#0000b2" stroke-width="4.0" fill="#0000b2" />
+</g>
+<g>
+<path d="M 760,140 L 746,132 L 746,148 Z" stroke="#000000" stroke-width="4.0" fill="none"/>
+<text text-anchor="end" x="741.0" y="146.75" fill="#808080" style="font-size:18px">CarrySelectA</text>
+<circle cx="760.0" cy="140.0" r="2.0" stroke="#0000b2" stroke-width="4.0" fill="#0000b2" />
+</g>
+<g>
+<path d="M -160,420 L -146,428 L -146,412 Z" stroke="#000000" stroke-width="4.0" fill="none"/>
+<text text-anchor="start" x="-141.0" y="426.75" fill="#808080" style="font-size:18px">RHS</text>
+<circle cx="-160.0" cy="420.0" r="2.0" stroke="#0000b2" stroke-width="4.0" fill="#0000b2" />
+</g>
+<g>
+<path d="M -160,340 L -146,348 L -146,332 Z" stroke="#000000" stroke-width="4.0" fill="none"/>
+<text text-anchor="start" x="-141.0" y="346.75" fill="#808080" style="font-size:18px">LHS</text>
+<circle cx="-160.0" cy="340.0" r="2.0" stroke="#0000b2" stroke-width="4.0" fill="#0000b2" />
+</g>
+<g>
+<path d="M 760,120 L 746,112 L 746,128 Z" stroke="#000000" stroke-width="4.0" fill="none"/>
+<text text-anchor="end" x="741.0" y="126.75" fill="#808080" style="font-size:18px">RHS</text>
+<circle cx="760.0" cy="120.0" r="2.0" stroke="#0000b2" stroke-width="4.0" fill="#0000b2" />
+</g>
+</g>
+</svg>
