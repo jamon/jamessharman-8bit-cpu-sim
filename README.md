@@ -32,3 +32,8 @@ Right now, I'm generally leaning toward using modules for any ICs that are more 
 ## Flags
 ![Flags](https://raw.githubusercontent.com/jamon/jamessharman-8bit-cpu-sim/main/alu/flags.svg)
 
+# Main Bus
+
+## Bus Control
+![Bus Control](https://raw.githubusercontent.com/jamon/jamessharman-8bit-cpu-sim/main/mainbus/buscontrol.svg)
+
