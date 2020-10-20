@@ -14,7 +14,12 @@
   <visualElements>
     <visualElement>
       <elementName>Clock</elementName>
-      <elementAttributes/>
+      <elementAttributes>
+        <entry>
+          <string>Label</string>
+          <string>ClockIn</string>
+        </entry>
+      </elementAttributes>
       <pos x="300" y="160"/>
     </visualElement>
     <visualElement>
