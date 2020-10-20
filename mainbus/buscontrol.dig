@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <circuit>
   <version>1</version>
-  <attributes/>
+  <attributes>
+    <entry>
+      <string>Label</string>
+      <string>Bus Control</string>
+    </entry>
+    <entry>
+      <string>Width</string>
+      <int>40</int>
+    </entry>
+  </attributes>
   <visualElements>
     <visualElement>
       <elementName>Clock</elementName>
