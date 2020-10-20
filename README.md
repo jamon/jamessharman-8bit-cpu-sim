@@ -33,7 +33,10 @@ Right now, I'm generally leaning toward using modules for any ICs that are more 
 ![Flags](https://raw.githubusercontent.com/jamon/jamessharman-8bit-cpu-sim/main/alu/flags.svg)
 
 # Main Bus
+![Main Bus](https://raw.githubusercontent.com/jamon/jamessharman-8bit-cpu-sim/main/mainbus/mainbus.svg)
 
 ## Bus Control
 ![Bus Control](https://raw.githubusercontent.com/jamon/jamessharman-8bit-cpu-sim/main/mainbus/buscontrol.svg)
 
+## 8-bit General Purpose Register
+![8-bit GPR](https://raw.githubusercontent.com/jamon/jamessharman-8bit-cpu-sim/main/mainbus/reg-8bit-generalpurpose.svg)
