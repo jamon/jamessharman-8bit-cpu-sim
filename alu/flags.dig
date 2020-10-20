@@ -393,46 +393,6 @@
       <elementAttributes>
         <entry>
           <string>NetName</string>
-          <string>NC</string>
-        </entry>
-      </elementAttributes>
-      <pos x="1240" y="180"/>
-    </visualElement>
-    <visualElement>
-      <elementName>Tunnel</elementName>
-      <elementAttributes>
-        <entry>
-          <string>NetName</string>
-          <string>NC</string>
-        </entry>
-      </elementAttributes>
-      <pos x="1240" y="220"/>
-    </visualElement>
-    <visualElement>
-      <elementName>Tunnel</elementName>
-      <elementAttributes>
-        <entry>
-          <string>NetName</string>
-          <string>NC</string>
-        </entry>
-      </elementAttributes>
-      <pos x="1240" y="260"/>
-    </visualElement>
-    <visualElement>
-      <elementName>Tunnel</elementName>
-      <elementAttributes>
-        <entry>
-          <string>NetName</string>
-          <string>NC</string>
-        </entry>
-      </elementAttributes>
-      <pos x="1240" y="300"/>
-    </visualElement>
-    <visualElement>
-      <elementName>Tunnel</elementName>
-      <elementAttributes>
-        <entry>
-          <string>NetName</string>
           <string>OverflowFlag</string>
         </entry>
       </elementAttributes>
@@ -1169,10 +1129,6 @@ C       0b00000000 0b00000000 0b00000000 0</dataString>
       <p2 x="1060" y="260"/>
     </wire>
     <wire>
-      <p1 x="1180" y="260"/>
-      <p2 x="1240" y="260"/>
-    </wire>
-    <wire>
       <p1 x="200" y="260"/>
       <p2 x="240" y="260"/>
     </wire>
@@ -1305,10 +1261,6 @@ C       0b00000000 0b00000000 0b00000000 0</dataString>
       <p2 x="1060" y="220"/>
     </wire>
     <wire>
-      <p1 x="1180" y="220"/>
-      <p2 x="1240" y="220"/>
-    </wire>
-    <wire>
       <p1 x="200" y="540"/>
       <p2 x="240" y="540"/>
     </wire>
@@ -1385,10 +1337,6 @@ C       0b00000000 0b00000000 0b00000000 0</dataString>
       <p2 x="1060" y="300"/>
     </wire>
     <wire>
-      <p1 x="1180" y="300"/>
-      <p2 x="1240" y="300"/>
-    </wire>
-    <wire>
       <p1 x="200" y="300"/>
       <p2 x="240" y="300"/>
     </wire>
@@ -1415,10 +1363,6 @@ C       0b00000000 0b00000000 0b00000000 0</dataString>
     <wire>
       <p1 x="1000" y="180"/>
       <p2 x="1060" y="180"/>
-    </wire>
-    <wire>
-      <p1 x="1180" y="180"/>
-      <p2 x="1240" y="180"/>
     </wire>
     <wire>
       <p1 x="200" y="180"/>
