@@ -50,7 +50,7 @@ DATA Polling for End of Write Detection not implemented!</string>
         </entry>
         <entry>
           <string>lastDataFile</string>
-          <string>C:\code\jamessharman-8bit-cpu-sim\pipeline\pipeline-stage1-rom2.hex</string>
+          <string>C:\code\jamessharman-8bit-cpu-sim\pipeline\pipeline-stage2-rom2.hex</string>
         </entry>
       </elementAttributes>
       <pos x="820" y="-180"/>

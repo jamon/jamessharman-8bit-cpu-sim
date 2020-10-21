@@ -77,40 +77,40 @@
       <elementAttributes>
         <entry>
           <string>Label</string>
-          <string>LHS\_0</string>
+          <string>ResetIn</string>
         </entry>
       </elementAttributes>
-      <pos x="220" y="440"/>
+      <pos x="300" y="300"/>
     </visualElement>
     <visualElement>
       <elementName>In</elementName>
       <elementAttributes>
         <entry>
           <string>Label</string>
-          <string>LHS\_1</string>
+          <string>MainBus\_Assert\_0</string>
         </entry>
       </elementAttributes>
-      <pos x="220" y="480"/>
+      <pos x="140" y="940"/>
     </visualElement>
     <visualElement>
       <elementName>In</elementName>
       <elementAttributes>
         <entry>
           <string>Label</string>
-          <string>RHS\_0</string>
+          <string>MainBus\_Assert\_1</string>
         </entry>
       </elementAttributes>
-      <pos x="220" y="640"/>
+      <pos x="140" y="980"/>
     </visualElement>
     <visualElement>
       <elementName>In</elementName>
       <elementAttributes>
         <entry>
           <string>Label</string>
-          <string>RHS\_1</string>
+          <string>MainBus\_Assert\_2</string>
         </entry>
       </elementAttributes>
-      <pos x="220" y="680"/>
+      <pos x="140" y="1020"/>
     </visualElement>
     <visualElement>
       <elementName>Tunnel</elementName>
@@ -391,10 +391,10 @@
       <elementAttributes>
         <entry>
           <string>Label</string>
-          <string>ResetIn</string>
+          <string>MainBus\_Assert\_3</string>
         </entry>
       </elementAttributes>
-      <pos x="300" y="300"/>
+      <pos x="140" y="1060"/>
     </visualElement>
     <visualElement>
       <elementName>Tunnel</elementName>
@@ -2633,40 +2633,40 @@
       <elementAttributes>
         <entry>
           <string>Label</string>
-          <string>MainBus\_Assert\_0</string>
+          <string>MainBus\_Load\_0</string>
         </entry>
       </elementAttributes>
-      <pos x="140" y="940"/>
+      <pos x="620" y="940"/>
     </visualElement>
     <visualElement>
       <elementName>In</elementName>
       <elementAttributes>
         <entry>
           <string>Label</string>
-          <string>MainBus\_Assert\_1</string>
+          <string>MainBus\_Load\_1</string>
         </entry>
       </elementAttributes>
-      <pos x="140" y="980"/>
+      <pos x="620" y="980"/>
     </visualElement>
     <visualElement>
       <elementName>In</elementName>
       <elementAttributes>
         <entry>
           <string>Label</string>
-          <string>MainBus\_Assert\_2</string>
+          <string>MainBus\_Load\_2</string>
         </entry>
       </elementAttributes>
-      <pos x="140" y="1020"/>
+      <pos x="620" y="1020"/>
     </visualElement>
     <visualElement>
       <elementName>In</elementName>
       <elementAttributes>
         <entry>
           <string>Label</string>
-          <string>MainBus\_Assert\_3</string>
+          <string>MainBus\_Load\_3</string>
         </entry>
       </elementAttributes>
-      <pos x="140" y="1060"/>
+      <pos x="620" y="1060"/>
     </visualElement>
     <visualElement>
       <elementName>Out</elementName>
@@ -2837,40 +2837,40 @@
       <elementAttributes>
         <entry>
           <string>Label</string>
-          <string>MainBus\_Load\_0</string>
+          <string>Inc\_SPSIDI\_0</string>
         </entry>
       </elementAttributes>
-      <pos x="620" y="940"/>
+      <pos x="80" y="2140"/>
     </visualElement>
     <visualElement>
       <elementName>In</elementName>
       <elementAttributes>
         <entry>
           <string>Label</string>
-          <string>MainBus\_Load\_1</string>
+          <string>Inc\_SPSIDI\_1</string>
         </entry>
       </elementAttributes>
-      <pos x="620" y="980"/>
+      <pos x="80" y="2180"/>
     </visualElement>
     <visualElement>
       <elementName>In</elementName>
       <elementAttributes>
         <entry>
           <string>Label</string>
-          <string>MainBus\_Load\_2</string>
+          <string>AddrSel0</string>
         </entry>
       </elementAttributes>
-      <pos x="620" y="1020"/>
+      <pos x="80" y="3280"/>
     </visualElement>
     <visualElement>
       <elementName>In</elementName>
       <elementAttributes>
         <entry>
           <string>Label</string>
-          <string>MainBus\_Load\_3</string>
+          <string>AddrSel1</string>
         </entry>
       </elementAttributes>
-      <pos x="620" y="1060"/>
+      <pos x="80" y="3320"/>
     </visualElement>
     <visualElement>
       <elementName>Out</elementName>
@@ -3037,20 +3037,20 @@
       <elementAttributes>
         <entry>
           <string>Label</string>
-          <string>Inc\_PCRA\_0</string>
+          <string>AddrSel2</string>
         </entry>
       </elementAttributes>
-      <pos x="80" y="1920"/>
+      <pos x="80" y="3360"/>
     </visualElement>
     <visualElement>
       <elementName>In</elementName>
       <elementAttributes>
         <entry>
           <string>Label</string>
-          <string>Inc\_PCRA\_1</string>
+          <string>LHS\_0</string>
         </entry>
       </elementAttributes>
-      <pos x="80" y="1960"/>
+      <pos x="220" y="440"/>
     </visualElement>
     <visualElement>
       <elementName>Tunnel</elementName>
@@ -3125,20 +3125,20 @@
       <elementAttributes>
         <entry>
           <string>Label</string>
-          <string>Inc\_SPSIDI\_0</string>
+          <string>LHS\_1</string>
         </entry>
       </elementAttributes>
-      <pos x="80" y="2140"/>
+      <pos x="220" y="480"/>
     </visualElement>
     <visualElement>
       <elementName>In</elementName>
       <elementAttributes>
         <entry>
           <string>Label</string>
-          <string>Inc\_SPSIDI\_1</string>
+          <string>RHS\_0</string>
         </entry>
       </elementAttributes>
-      <pos x="80" y="2180"/>
+      <pos x="220" y="640"/>
     </visualElement>
     <visualElement>
       <elementName>Tunnel</elementName>
@@ -3559,6 +3559,16 @@
       <elementAttributes>
         <entry>
           <string>Label</string>
+          <string>RHS\_1</string>
+        </entry>
+      </elementAttributes>
+      <pos x="220" y="680"/>
+    </visualElement>
+    <visualElement>
+      <elementName>In</elementName>
+      <elementAttributes>
+        <entry>
+          <string>Label</string>
           <string>Xfer\_Assert0</string>
         </entry>
       </elementAttributes>
@@ -3573,16 +3583,6 @@
         </entry>
       </elementAttributes>
       <pos x="80" y="2460"/>
-    </visualElement>
-    <visualElement>
-      <elementName>In</elementName>
-      <elementAttributes>
-        <entry>
-          <string>Label</string>
-          <string>Xfer\_Assert2</string>
-        </entry>
-      </elementAttributes>
-      <pos x="80" y="2500"/>
     </visualElement>
     <visualElement>
       <elementName>Out</elementName>
@@ -3673,6 +3673,16 @@
       <elementAttributes>
         <entry>
           <string>Label</string>
+          <string>Xfer\_Assert2</string>
+        </entry>
+      </elementAttributes>
+      <pos x="80" y="2500"/>
+    </visualElement>
+    <visualElement>
+      <elementName>In</elementName>
+      <elementAttributes>
+        <entry>
+          <string>Label</string>
           <string>Xfer\_LoadDec0</string>
         </entry>
       </elementAttributes>
@@ -3697,16 +3707,6 @@
         </entry>
       </elementAttributes>
       <pos x="620" y="2500"/>
-    </visualElement>
-    <visualElement>
-      <elementName>In</elementName>
-      <elementAttributes>
-        <entry>
-          <string>Label</string>
-          <string>Xfer\_LoadDec3</string>
-        </entry>
-      </elementAttributes>
-      <pos x="620" y="2540"/>
     </visualElement>
     <visualElement>
       <elementName>Out</elementName>
@@ -3947,30 +3947,30 @@
       <elementAttributes>
         <entry>
           <string>Label</string>
-          <string>AddrSel0</string>
+          <string>Xfer\_LoadDec3</string>
         </entry>
       </elementAttributes>
-      <pos x="80" y="3280"/>
+      <pos x="620" y="2540"/>
     </visualElement>
     <visualElement>
       <elementName>In</elementName>
       <elementAttributes>
         <entry>
           <string>Label</string>
-          <string>AddrSel1</string>
+          <string>Inc\_PCRA\_0</string>
         </entry>
       </elementAttributes>
-      <pos x="80" y="3320"/>
+      <pos x="80" y="1920"/>
     </visualElement>
     <visualElement>
       <elementName>In</elementName>
       <elementAttributes>
         <entry>
           <string>Label</string>
-          <string>AddrSel2</string>
+          <string>Inc\_PCRA\_1</string>
         </entry>
       </elementAttributes>
-      <pos x="80" y="3360"/>
+      <pos x="80" y="1960"/>
     </visualElement>
     <visualElement>
       <elementName>Out</elementName>

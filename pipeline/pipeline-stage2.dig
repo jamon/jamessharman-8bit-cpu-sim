@@ -94,17 +94,7 @@
     <visualElement>
       <elementName>Ground</elementName>
       <elementAttributes/>
-      <pos x="700" y="320"/>
-    </visualElement>
-    <visualElement>
-      <elementName>Ground</elementName>
-      <elementAttributes/>
-      <pos x="700" y="400"/>
-    </visualElement>
-    <visualElement>
-      <elementName>Ground</elementName>
-      <elementAttributes/>
-      <pos x="300" y="600"/>
+      <pos x="820" y="460"/>
     </visualElement>
     <visualElement>
       <elementName>74574.dig</elementName>
@@ -153,11 +143,6 @@
       <pos x="680" y="720"/>
     </visualElement>
     <visualElement>
-      <elementName>Ground</elementName>
-      <elementAttributes/>
-      <pos x="1000" y="240"/>
-    </visualElement>
-    <visualElement>
       <elementName>VDD</elementName>
       <elementAttributes/>
       <pos x="1280" y="180"/>
@@ -167,7 +152,7 @@
       <elementAttributes>
         <entry>
           <string>NetName</string>
-          <string>Pipe1Out\_7\_ALUOP3</string>
+          <string>Pipe2Out\_7\_MainLoad3</string>
         </entry>
       </elementAttributes>
       <pos x="1260" y="280"/>
@@ -177,7 +162,7 @@
       <elementAttributes>
         <entry>
           <string>NetName</string>
-          <string>Pipe1Out\_6\_ALUOP2</string>
+          <string>Pipe2Out\_6\_MainLoad2</string>
         </entry>
       </elementAttributes>
       <pos x="1260" y="320"/>
@@ -187,7 +172,7 @@
       <elementAttributes>
         <entry>
           <string>NetName</string>
-          <string>Pipe1Out\_5\_ALUOP1</string>
+          <string>Pipe2Out\_5\_MainLoad1</string>
         </entry>
       </elementAttributes>
       <pos x="1260" y="360"/>
@@ -197,7 +182,7 @@
       <elementAttributes>
         <entry>
           <string>NetName</string>
-          <string>Pipe1Out\_4\_ALUOP0</string>
+          <string>Pipe2Out\_4\_MainLoad0</string>
         </entry>
       </elementAttributes>
       <pos x="1260" y="400"/>
@@ -207,7 +192,7 @@
       <elementAttributes>
         <entry>
           <string>NetName</string>
-          <string>Pipe1Out\_3\_RHS1</string>
+          <string>Pipe2Out\_3\_MainAssert3</string>
         </entry>
       </elementAttributes>
       <pos x="1260" y="440"/>
@@ -217,7 +202,7 @@
       <elementAttributes>
         <entry>
           <string>NetName</string>
-          <string>Pipe1Out\_2\_RHS0</string>
+          <string>Pipe2Out\_2\_MainAssert2</string>
         </entry>
       </elementAttributes>
       <pos x="1260" y="480"/>
@@ -227,7 +212,7 @@
       <elementAttributes>
         <entry>
           <string>NetName</string>
-          <string>Pipe1Out\_1\_LHS1</string>
+          <string>Pipe2Out\_1\_MainAssert1</string>
         </entry>
       </elementAttributes>
       <pos x="1260" y="520"/>
@@ -237,7 +222,7 @@
       <elementAttributes>
         <entry>
           <string>NetName</string>
-          <string>Pipe1Out\_0\_LHS0</string>
+          <string>Pipe2Out\_0\_MainAssert0</string>
         </entry>
       </elementAttributes>
       <pos x="1260" y="560"/>
@@ -338,17 +323,7 @@
     <visualElement>
       <elementName>Ground</elementName>
       <elementAttributes/>
-      <pos x="700" y="1100"/>
-    </visualElement>
-    <visualElement>
-      <elementName>Ground</elementName>
-      <elementAttributes/>
-      <pos x="700" y="1180"/>
-    </visualElement>
-    <visualElement>
-      <elementName>Ground</elementName>
-      <elementAttributes/>
-      <pos x="300" y="1380"/>
+      <pos x="320" y="1400"/>
     </visualElement>
     <visualElement>
       <elementName>74574.dig</elementName>
@@ -397,11 +372,6 @@
       <pos x="680" y="1500"/>
     </visualElement>
     <visualElement>
-      <elementName>Ground</elementName>
-      <elementAttributes/>
-      <pos x="1000" y="1020"/>
-    </visualElement>
-    <visualElement>
       <elementName>VDD</elementName>
       <elementAttributes/>
       <pos x="1280" y="960"/>
@@ -411,7 +381,7 @@
       <elementAttributes>
         <entry>
           <string>NetName</string>
-          <string>Pipe1Out\_15\_FetchSuppress</string>
+          <string>Pipe2Out\_15\_Break</string>
         </entry>
       </elementAttributes>
       <pos x="1260" y="1060"/>
@@ -421,7 +391,7 @@
       <elementAttributes>
         <entry>
           <string>NetName</string>
-          <string>Pipe1Out\_14\_XA2</string>
+          <string>Pipe2Out\_14\_PCRA\_Flip</string>
         </entry>
       </elementAttributes>
       <pos x="1260" y="1100"/>
@@ -431,7 +401,7 @@
       <elementAttributes>
         <entry>
           <string>NetName</string>
-          <string>Pipe1Out\_13\_XA1</string>
+          <string>Pipe2Out\_13\_BusRequest</string>
         </entry>
       </elementAttributes>
       <pos x="1260" y="1140"/>
@@ -441,7 +411,7 @@
       <elementAttributes>
         <entry>
           <string>NetName</string>
-          <string>Pipe1Out\_12\_XA0</string>
+          <string>Pipe2Out\_12\_Addr2</string>
         </entry>
       </elementAttributes>
       <pos x="1260" y="1180"/>
@@ -451,7 +421,7 @@
       <elementAttributes>
         <entry>
           <string>NetName</string>
-          <string>Pipe1Out\_11\_XLD3</string>
+          <string>Pipe2Out\_11\_Addr1</string>
         </entry>
       </elementAttributes>
       <pos x="1260" y="1220"/>
@@ -461,7 +431,7 @@
       <elementAttributes>
         <entry>
           <string>NetName</string>
-          <string>Pipe1Out\_10\_XLD2</string>
+          <string>Pipe2Out\_10\_Addr0</string>
         </entry>
       </elementAttributes>
       <pos x="1260" y="1260"/>
@@ -471,7 +441,7 @@
       <elementAttributes>
         <entry>
           <string>NetName</string>
-          <string>Pipe1Out\_9\_XLD1</string>
+          <string>Pipe2Out\_9\_Inc1</string>
         </entry>
       </elementAttributes>
       <pos x="1260" y="1300"/>
@@ -481,7 +451,7 @@
       <elementAttributes>
         <entry>
           <string>NetName</string>
-          <string>Pipe1Out\_8\_XLD0</string>
+          <string>Pipe2Out\_8\_Inc0</string>
         </entry>
       </elementAttributes>
       <pos x="1260" y="1340"/>
@@ -505,11 +475,6 @@
       <elementName>Ground</elementName>
       <elementAttributes/>
       <pos x="320" y="-80"/>
-    </visualElement>
-    <visualElement>
-      <elementName>Ground</elementName>
-      <elementAttributes/>
-      <pos x="320" y="-500"/>
     </visualElement>
     <visualElement>
       <elementName>VDD</elementName>
@@ -653,118 +618,6 @@
       <pos x="240" y="440"/>
     </visualElement>
     <visualElement>
-      <elementName>Splitter</elementName>
-      <elementAttributes>
-        <entry>
-          <string>splitterSpreading</string>
-          <int>4</int>
-        </entry>
-        <entry>
-          <string>Input Splitting</string>
-          <string>8</string>
-        </entry>
-        <entry>
-          <string>Output Splitting</string>
-          <string>1,1,1,1,1,1,1,1</string>
-        </entry>
-      </elementAttributes>
-      <pos x="1000" y="-580"/>
-    </visualElement>
-    <visualElement>
-      <elementName>And</elementName>
-      <elementAttributes>
-        <entry>
-          <string>wideShape</string>
-          <boolean>true</boolean>
-        </entry>
-      </elementAttributes>
-      <pos x="1100" y="-580"/>
-    </visualElement>
-    <visualElement>
-      <elementName>And</elementName>
-      <elementAttributes>
-        <entry>
-          <string>wideShape</string>
-          <boolean>true</boolean>
-        </entry>
-      </elementAttributes>
-      <pos x="1100" y="-500"/>
-    </visualElement>
-    <visualElement>
-      <elementName>And</elementName>
-      <elementAttributes>
-        <entry>
-          <string>wideShape</string>
-          <boolean>true</boolean>
-        </entry>
-      </elementAttributes>
-      <pos x="1100" y="-420"/>
-    </visualElement>
-    <visualElement>
-      <elementName>And</elementName>
-      <elementAttributes>
-        <entry>
-          <string>wideShape</string>
-          <boolean>true</boolean>
-        </entry>
-      </elementAttributes>
-      <pos x="1100" y="-340"/>
-    </visualElement>
-    <visualElement>
-      <elementName>And</elementName>
-      <elementAttributes>
-        <entry>
-          <string>wideShape</string>
-          <boolean>true</boolean>
-        </entry>
-      </elementAttributes>
-      <pos x="1100" y="-260"/>
-    </visualElement>
-    <visualElement>
-      <elementName>And</elementName>
-      <elementAttributes>
-        <entry>
-          <string>wideShape</string>
-          <boolean>true</boolean>
-        </entry>
-      </elementAttributes>
-      <pos x="1100" y="-180"/>
-    </visualElement>
-    <visualElement>
-      <elementName>And</elementName>
-      <elementAttributes>
-        <entry>
-          <string>wideShape</string>
-          <boolean>true</boolean>
-        </entry>
-      </elementAttributes>
-      <pos x="1100" y="-100"/>
-    </visualElement>
-    <visualElement>
-      <elementName>And</elementName>
-      <elementAttributes>
-        <entry>
-          <string>wideShape</string>
-          <boolean>true</boolean>
-        </entry>
-      </elementAttributes>
-      <pos x="1100" y="-20"/>
-    </visualElement>
-    <visualElement>
-      <elementName>Splitter</elementName>
-      <elementAttributes>
-        <entry>
-          <string>splitterSpreading</string>
-          <int>4</int>
-        </entry>
-        <entry>
-          <string>Input Splitting</string>
-          <string>1,1,1,1,1,1,1,1</string>
-        </entry>
-      </elementAttributes>
-      <pos x="1220" y="-560"/>
-    </visualElement>
-    <visualElement>
       <elementName>Tunnel</elementName>
       <elementAttributes>
         <entry>
@@ -772,45 +625,7 @@
           <string>PipeOut</string>
         </entry>
       </elementAttributes>
-      <pos x="1300" y="-560"/>
-    </visualElement>
-    <visualElement>
-      <elementName>NAnd</elementName>
-      <elementAttributes>
-        <entry>
-          <string>wideShape</string>
-          <boolean>true</boolean>
-        </entry>
-      </elementAttributes>
-      <pos x="500" y="-700"/>
-    </visualElement>
-    <visualElement>
-      <elementName>Tunnel</elementName>
-      <elementAttributes>
-        <entry>
-          <string>rotation</string>
-          <rotation rotation="2"/>
-        </entry>
-        <entry>
-          <string>NetName</string>
-          <string>BusRequest</string>
-        </entry>
-      </elementAttributes>
-      <pos x="440" y="-660"/>
-    </visualElement>
-    <visualElement>
-      <elementName>Tunnel</elementName>
-      <elementAttributes>
-        <entry>
-          <string>rotation</string>
-          <rotation rotation="2"/>
-        </entry>
-        <entry>
-          <string>NetName</string>
-          <string>Pipe1Out\_15\_FetchSuppress</string>
-        </entry>
-      </elementAttributes>
-      <pos x="440" y="-700"/>
+      <pos x="680" y="-180"/>
     </visualElement>
     <visualElement>
       <elementName>Not</elementName>
@@ -924,16 +739,6 @@ Will likely need to use a higher clock and a &quot;half-clock&quot; signal</stri
       <pos x="-200" y="-200"/>
     </visualElement>
     <visualElement>
-      <elementName>In</elementName>
-      <elementAttributes>
-        <entry>
-          <string>Label</string>
-          <string>BusRequest</string>
-        </entry>
-      </elementAttributes>
-      <pos x="-400" y="-120"/>
-    </visualElement>
-    <visualElement>
       <elementName>Out</elementName>
       <elementAttributes>
         <entry>
@@ -1042,16 +847,6 @@ Will likely need to use a higher clock and a &quot;half-clock&quot; signal</stri
       <pos x="-400" y="0"/>
     </visualElement>
     <visualElement>
-      <elementName>Tunnel</elementName>
-      <elementAttributes>
-        <entry>
-          <string>NetName</string>
-          <string>BusRequest</string>
-        </entry>
-      </elementAttributes>
-      <pos x="-200" y="-120"/>
-    </visualElement>
-    <visualElement>
       <elementName>In</elementName>
       <elementAttributes>
         <entry>
@@ -1066,16 +861,6 @@ Will likely need to use a higher clock and a &quot;half-clock&quot; signal</stri
       <pos x="-400" y="-500"/>
     </visualElement>
     <visualElement>
-      <elementName>pipeline-stage1-rom1.dig</elementName>
-      <elementAttributes/>
-      <pos x="380" y="80"/>
-    </visualElement>
-    <visualElement>
-      <elementName>pipeline-stage1-rom2.dig</elementName>
-      <elementAttributes/>
-      <pos x="380" y="860"/>
-    </visualElement>
-    <visualElement>
       <elementName>Tunnel</elementName>
       <elementAttributes>
         <entry>
@@ -1084,7 +869,7 @@ Will likely need to use a higher clock and a &quot;half-clock&quot; signal</stri
         </entry>
         <entry>
           <string>NetName</string>
-          <string>Pipe1Out\_7\_ALUOP3</string>
+          <string>Pipe2Out\_7\_MainLoad3</string>
         </entry>
       </elementAttributes>
       <pos x="-400" y="400"/>
@@ -1098,7 +883,7 @@ Will likely need to use a higher clock and a &quot;half-clock&quot; signal</stri
         </entry>
         <entry>
           <string>NetName</string>
-          <string>Pipe1Out\_6\_ALUOP2</string>
+          <string>Pipe2Out\_6\_MainLoad2</string>
         </entry>
       </elementAttributes>
       <pos x="-400" y="360"/>
@@ -1112,7 +897,7 @@ Will likely need to use a higher clock and a &quot;half-clock&quot; signal</stri
         </entry>
         <entry>
           <string>NetName</string>
-          <string>Pipe1Out\_5\_ALUOP1</string>
+          <string>Pipe2Out\_5\_MainLoad1</string>
         </entry>
       </elementAttributes>
       <pos x="-400" y="320"/>
@@ -1126,7 +911,7 @@ Will likely need to use a higher clock and a &quot;half-clock&quot; signal</stri
         </entry>
         <entry>
           <string>NetName</string>
-          <string>Pipe1Out\_4\_ALUOP0</string>
+          <string>Pipe2Out\_4\_MainLoad0</string>
         </entry>
       </elementAttributes>
       <pos x="-400" y="280"/>
@@ -1140,7 +925,7 @@ Will likely need to use a higher clock and a &quot;half-clock&quot; signal</stri
         </entry>
         <entry>
           <string>NetName</string>
-          <string>Pipe1Out\_3\_RHS1</string>
+          <string>Pipe2Out\_3\_MainAssert3</string>
         </entry>
       </elementAttributes>
       <pos x="-400" y="240"/>
@@ -1154,7 +939,7 @@ Will likely need to use a higher clock and a &quot;half-clock&quot; signal</stri
         </entry>
         <entry>
           <string>NetName</string>
-          <string>Pipe1Out\_2\_RHS0</string>
+          <string>Pipe2Out\_2\_MainAssert2</string>
         </entry>
       </elementAttributes>
       <pos x="-400" y="200"/>
@@ -1168,7 +953,7 @@ Will likely need to use a higher clock and a &quot;half-clock&quot; signal</stri
         </entry>
         <entry>
           <string>NetName</string>
-          <string>Pipe1Out\_1\_LHS1</string>
+          <string>Pipe2Out\_1\_MainAssert1</string>
         </entry>
       </elementAttributes>
       <pos x="-400" y="160"/>
@@ -1182,7 +967,7 @@ Will likely need to use a higher clock and a &quot;half-clock&quot; signal</stri
         </entry>
         <entry>
           <string>NetName</string>
-          <string>Pipe1Out\_0\_LHS0</string>
+          <string>Pipe2Out\_0\_MainAssert0</string>
         </entry>
       </elementAttributes>
       <pos x="-400" y="120"/>
@@ -1196,7 +981,7 @@ Will likely need to use a higher clock and a &quot;half-clock&quot; signal</stri
         </entry>
         <entry>
           <string>NetName</string>
-          <string>Pipe1Out\_15\_FetchSuppress</string>
+          <string>Pipe2Out\_15\_Break</string>
         </entry>
       </elementAttributes>
       <pos x="-400" y="740"/>
@@ -1210,7 +995,7 @@ Will likely need to use a higher clock and a &quot;half-clock&quot; signal</stri
         </entry>
         <entry>
           <string>NetName</string>
-          <string>Pipe1Out\_14\_XA2</string>
+          <string>Pipe2Out\_14\_PCRA\_Flip</string>
         </entry>
       </elementAttributes>
       <pos x="-400" y="700"/>
@@ -1224,7 +1009,7 @@ Will likely need to use a higher clock and a &quot;half-clock&quot; signal</stri
         </entry>
         <entry>
           <string>NetName</string>
-          <string>Pipe1Out\_13\_XA1</string>
+          <string>Pipe2Out\_13\_BusRequest</string>
         </entry>
       </elementAttributes>
       <pos x="-400" y="660"/>
@@ -1238,7 +1023,7 @@ Will likely need to use a higher clock and a &quot;half-clock&quot; signal</stri
         </entry>
         <entry>
           <string>NetName</string>
-          <string>Pipe1Out\_12\_XA0</string>
+          <string>Pipe2Out\_12\_Addr2</string>
         </entry>
       </elementAttributes>
       <pos x="-400" y="620"/>
@@ -1252,7 +1037,7 @@ Will likely need to use a higher clock and a &quot;half-clock&quot; signal</stri
         </entry>
         <entry>
           <string>NetName</string>
-          <string>Pipe1Out\_11\_XLD3</string>
+          <string>Pipe2Out\_11\_Addr1</string>
         </entry>
       </elementAttributes>
       <pos x="-400" y="580"/>
@@ -1266,7 +1051,7 @@ Will likely need to use a higher clock and a &quot;half-clock&quot; signal</stri
         </entry>
         <entry>
           <string>NetName</string>
-          <string>Pipe1Out\_10\_XLD2</string>
+          <string>Pipe2Out\_10\_Addr0</string>
         </entry>
       </elementAttributes>
       <pos x="-400" y="540"/>
@@ -1280,7 +1065,7 @@ Will likely need to use a higher clock and a &quot;half-clock&quot; signal</stri
         </entry>
         <entry>
           <string>NetName</string>
-          <string>Pipe1Out\_9\_XLD1</string>
+          <string>Pipe2Out\_9\_Inc1</string>
         </entry>
       </elementAttributes>
       <pos x="-400" y="500"/>
@@ -1294,7 +1079,7 @@ Will likely need to use a higher clock and a &quot;half-clock&quot; signal</stri
         </entry>
         <entry>
           <string>NetName</string>
-          <string>Pipe1Out\_8\_XLD0</string>
+          <string>Pipe2Out\_8\_Inc0</string>
         </entry>
       </elementAttributes>
       <pos x="-400" y="460"/>
@@ -1304,7 +1089,7 @@ Will likely need to use a higher clock and a &quot;half-clock&quot; signal</stri
       <elementAttributes>
         <entry>
           <string>Label</string>
-          <string>Pipe1Out\_0\_LHS0</string>
+          <string>Pipe2Out\_0\_MainAssert0</string>
         </entry>
       </elementAttributes>
       <pos x="-200" y="120"/>
@@ -1314,7 +1099,7 @@ Will likely need to use a higher clock and a &quot;half-clock&quot; signal</stri
       <elementAttributes>
         <entry>
           <string>Label</string>
-          <string>Pipe1Out\_1\_LHS1</string>
+          <string>Pipe2Out\_1\_MainAssert1</string>
         </entry>
       </elementAttributes>
       <pos x="-200" y="160"/>
@@ -1324,7 +1109,7 @@ Will likely need to use a higher clock and a &quot;half-clock&quot; signal</stri
       <elementAttributes>
         <entry>
           <string>Label</string>
-          <string>Pipe1Out\_2\_RHS0</string>
+          <string>Pipe2Out\_2\_MainAssert2</string>
         </entry>
       </elementAttributes>
       <pos x="-200" y="200"/>
@@ -1334,7 +1119,7 @@ Will likely need to use a higher clock and a &quot;half-clock&quot; signal</stri
       <elementAttributes>
         <entry>
           <string>Label</string>
-          <string>Pipe1Out\_3\_RHS1</string>
+          <string>Pipe2Out\_3\_MainAssert3</string>
         </entry>
       </elementAttributes>
       <pos x="-200" y="240"/>
@@ -1344,7 +1129,7 @@ Will likely need to use a higher clock and a &quot;half-clock&quot; signal</stri
       <elementAttributes>
         <entry>
           <string>Label</string>
-          <string>Pipe1Out\_4\_ALUOP0</string>
+          <string>Pipe2Out\_4\_MainLoad0</string>
         </entry>
       </elementAttributes>
       <pos x="-200" y="280"/>
@@ -1354,7 +1139,7 @@ Will likely need to use a higher clock and a &quot;half-clock&quot; signal</stri
       <elementAttributes>
         <entry>
           <string>Label</string>
-          <string>Pipe1Out\_5\_ALUOP1</string>
+          <string>Pipe2Out\_5\_MainLoad1</string>
         </entry>
       </elementAttributes>
       <pos x="-200" y="320"/>
@@ -1364,7 +1149,7 @@ Will likely need to use a higher clock and a &quot;half-clock&quot; signal</stri
       <elementAttributes>
         <entry>
           <string>Label</string>
-          <string>Pipe1Out\_6\_ALUOP2</string>
+          <string>Pipe2Out\_6\_MainLoad2</string>
         </entry>
       </elementAttributes>
       <pos x="-200" y="360"/>
@@ -1374,7 +1159,7 @@ Will likely need to use a higher clock and a &quot;half-clock&quot; signal</stri
       <elementAttributes>
         <entry>
           <string>Label</string>
-          <string>Pipe1Out\_7\_ALUOP3</string>
+          <string>Pipe2Out\_7\_MainLoad3</string>
         </entry>
       </elementAttributes>
       <pos x="-200" y="400"/>
@@ -1384,7 +1169,7 @@ Will likely need to use a higher clock and a &quot;half-clock&quot; signal</stri
       <elementAttributes>
         <entry>
           <string>Label</string>
-          <string>Pipe1Out\_8\_XLD0</string>
+          <string>Pipe2Out\_8\_Inc0</string>
         </entry>
       </elementAttributes>
       <pos x="-200" y="460"/>
@@ -1394,7 +1179,7 @@ Will likely need to use a higher clock and a &quot;half-clock&quot; signal</stri
       <elementAttributes>
         <entry>
           <string>Label</string>
-          <string>Pipe1Out\_9\_XLD1</string>
+          <string>Pipe2Out\_9\_Inc1</string>
         </entry>
       </elementAttributes>
       <pos x="-200" y="500"/>
@@ -1404,7 +1189,7 @@ Will likely need to use a higher clock and a &quot;half-clock&quot; signal</stri
       <elementAttributes>
         <entry>
           <string>Label</string>
-          <string>Pipe1Out\_10\_XLD2</string>
+          <string>Pipe2Out\_10\_Addr0</string>
         </entry>
       </elementAttributes>
       <pos x="-200" y="540"/>
@@ -1414,7 +1199,7 @@ Will likely need to use a higher clock and a &quot;half-clock&quot; signal</stri
       <elementAttributes>
         <entry>
           <string>Label</string>
-          <string>Pipe1Out\_11\_XLD3</string>
+          <string>Pipe2Out\_11\_Addr1</string>
         </entry>
       </elementAttributes>
       <pos x="-200" y="580"/>
@@ -1424,7 +1209,7 @@ Will likely need to use a higher clock and a &quot;half-clock&quot; signal</stri
       <elementAttributes>
         <entry>
           <string>Label</string>
-          <string>Pipe1Out\_12\_XA0</string>
+          <string>Pipe2Out\_12\_Addr2</string>
         </entry>
       </elementAttributes>
       <pos x="-200" y="620"/>
@@ -1434,7 +1219,7 @@ Will likely need to use a higher clock and a &quot;half-clock&quot; signal</stri
       <elementAttributes>
         <entry>
           <string>Label</string>
-          <string>Pipe1Out\_13\_XA1</string>
+          <string>Pipe2Out\_13\_BusRequest</string>
         </entry>
       </elementAttributes>
       <pos x="-200" y="660"/>
@@ -1444,7 +1229,7 @@ Will likely need to use a higher clock and a &quot;half-clock&quot; signal</stri
       <elementAttributes>
         <entry>
           <string>Label</string>
-          <string>Pipe1Out\_14\_XA2</string>
+          <string>Pipe2Out\_14\_PCRA\_Flip</string>
         </entry>
       </elementAttributes>
       <pos x="-200" y="700"/>
@@ -1454,20 +1239,51 @@ Will likely need to use a higher clock and a &quot;half-clock&quot; signal</stri
       <elementAttributes>
         <entry>
           <string>Label</string>
-          <string>Pipe1Out\_15\_FetchSuppress</string>
+          <string>Pipe2Out\_15\_Break</string>
         </entry>
       </elementAttributes>
       <pos x="-200" y="740"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Ground</elementName>
+      <elementAttributes/>
+      <pos x="320" y="620"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Ground</elementName>
+      <elementAttributes/>
+      <pos x="820" y="1240"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Ground</elementName>
+      <elementAttributes/>
+      <pos x="280" y="-440"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Ground</elementName>
+      <elementAttributes/>
+      <pos x="1020" y="260"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Ground</elementName>
+      <elementAttributes/>
+      <pos x="1020" y="1040"/>
+    </visualElement>
+    <visualElement>
+      <elementName>pipeline-stage2-rom1.dig</elementName>
+      <elementAttributes/>
+      <pos x="380" y="80"/>
+    </visualElement>
+    <visualElement>
+      <elementName>pipeline-stage2-rom2.dig</elementName>
+      <elementAttributes/>
+      <pos x="380" y="860"/>
     </visualElement>
   </visualElements>
   <wires>
     <wire>
       <p1 x="280" y="640"/>
       <p2 x="680" y="640"/>
-    </wire>
-    <wire>
-      <p1 x="1180" y="0"/>
-      <p2 x="1220" y="0"/>
     </wire>
     <wire>
       <p1 x="-400" y="0"/>
@@ -1480,10 +1296,6 @@ Will likely need to use a higher clock and a &quot;half-clock&quot; signal</stri
     <wire>
       <p1 x="520" y="-260"/>
       <p2 x="580" y="-260"/>
-    </wire>
-    <wire>
-      <p1 x="1020" y="-260"/>
-      <p2 x="1100" y="-260"/>
     </wire>
     <wire>
       <p1 x="320" y="900"/>
@@ -1518,24 +1330,12 @@ Will likely need to use a higher clock and a &quot;half-clock&quot; signal</stri
       <p2 x="580" y="-140"/>
     </wire>
     <wire>
-      <p1 x="1060" y="-140"/>
-      <p2 x="1100" y="-140"/>
-    </wire>
-    <wire>
       <p1 x="280" y="1420"/>
       <p2 x="680" y="1420"/>
     </wire>
     <wire>
-      <p1 x="1180" y="-400"/>
-      <p2 x="1220" y="-400"/>
-    </wire>
-    <wire>
       <p1 x="-400" y="-400"/>
       <p2 x="-200" y="-400"/>
-    </wire>
-    <wire>
-      <p1 x="620" y="400"/>
-      <p2 x="700" y="400"/>
     </wire>
     <wire>
       <p1 x="1020" y="400"/>
@@ -1554,12 +1354,8 @@ Will likely need to use a higher clock and a &quot;half-clock&quot; signal</stri
       <p2 x="-200" y="400"/>
     </wire>
     <wire>
-      <p1 x="440" y="-660"/>
-      <p2 x="500" y="-660"/>
-    </wire>
-    <wire>
-      <p1 x="1020" y="-20"/>
-      <p2 x="1100" y="-20"/>
+      <p1 x="620" y="400"/>
+      <p2 x="820" y="400"/>
     </wire>
     <wire>
       <p1 x="620" y="1300"/>
@@ -1576,10 +1372,6 @@ Will likely need to use a higher clock and a &quot;half-clock&quot; signal</stri
     <wire>
       <p1 x="1200" y="1300"/>
       <p2 x="1260" y="1300"/>
-    </wire>
-    <wire>
-      <p1 x="1060" y="20"/>
-      <p2 x="1100" y="20"/>
     </wire>
     <wire>
       <p1 x="-400" y="660"/>
@@ -1614,14 +1406,6 @@ Will likely need to use a higher clock and a &quot;half-clock&quot; signal</stri
       <p2 x="-200" y="280"/>
     </wire>
     <wire>
-      <p1 x="1060" y="-540"/>
-      <p2 x="1100" y="-540"/>
-    </wire>
-    <wire>
-      <p1 x="620" y="1180"/>
-      <p2 x="700" y="1180"/>
-    </wire>
-    <wire>
       <p1 x="1020" y="1180"/>
       <p2 x="1080" y="1180"/>
     </wire>
@@ -1634,12 +1418,12 @@ Will likely need to use a higher clock and a &quot;half-clock&quot; signal</stri
       <p2 x="380" y="1180"/>
     </wire>
     <wire>
-      <p1 x="-400" y="540"/>
-      <p2 x="-200" y="540"/>
+      <p1 x="620" y="1180"/>
+      <p2 x="820" y="1180"/>
     </wire>
     <wire>
-      <p1 x="1180" y="-160"/>
-      <p2 x="1220" y="-160"/>
+      <p1 x="-400" y="540"/>
+      <p2 x="-200" y="540"/>
     </wire>
     <wire>
       <p1 x="320" y="160"/>
@@ -1662,10 +1446,6 @@ Will likely need to use a higher clock and a &quot;half-clock&quot; signal</stri
       <p2 x="580" y="-420"/>
     </wire>
     <wire>
-      <p1 x="1020" y="-420"/>
-      <p2 x="1100" y="-420"/>
-    </wire>
-    <wire>
       <p1 x="1020" y="1060"/>
       <p2 x="1080" y="1060"/>
     </wire>
@@ -1686,10 +1466,6 @@ Will likely need to use a higher clock and a &quot;half-clock&quot; signal</stri
       <p2 x="380" y="1060"/>
     </wire>
     <wire>
-      <p1 x="600" y="-680"/>
-      <p2 x="1060" y="-680"/>
-    </wire>
-    <wire>
       <p1 x="260" y="680"/>
       <p2 x="680" y="680"/>
     </wire>
@@ -1702,24 +1478,12 @@ Will likely need to use a higher clock and a &quot;half-clock&quot; signal</stri
       <p2 x="580" y="-300"/>
     </wire>
     <wire>
-      <p1 x="1060" y="-300"/>
-      <p2 x="1100" y="-300"/>
-    </wire>
-    <wire>
       <p1 x="620" y="940"/>
       <p2 x="680" y="940"/>
     </wire>
     <wire>
       <p1 x="320" y="940"/>
       <p2 x="380" y="940"/>
-    </wire>
-    <wire>
-      <p1 x="1180" y="-560"/>
-      <p2 x="1220" y="-560"/>
-    </wire>
-    <wire>
-      <p1 x="1240" y="-560"/>
-      <p2 x="1300" y="-560"/>
     </wire>
     <wire>
       <p1 x="620" y="560"/>
@@ -1750,12 +1514,8 @@ Will likely need to use a higher clock and a &quot;half-clock&quot; signal</stri
       <p2 x="580" y="-180"/>
     </wire>
     <wire>
-      <p1 x="1020" y="-180"/>
-      <p2 x="1100" y="-180"/>
-    </wire>
-    <wire>
       <p1 x="600" y="-180"/>
-      <p2 x="880" y="-180"/>
+      <p2 x="680" y="-180"/>
     </wire>
     <wire>
       <p1 x="260" y="1460"/>
@@ -1786,14 +1546,6 @@ Will likely need to use a higher clock and a &quot;half-clock&quot; signal</stri
       <p2 x="1260" y="440"/>
     </wire>
     <wire>
-      <p1 x="440" y="-700"/>
-      <p2 x="500" y="-700"/>
-    </wire>
-    <wire>
-      <p1 x="1060" y="-60"/>
-      <p2 x="1100" y="-60"/>
-    </wire>
-    <wire>
       <p1 x="620" y="1340"/>
       <p2 x="680" y="1340"/>
     </wire>
@@ -1818,14 +1570,6 @@ Will likely need to use a higher clock and a &quot;half-clock&quot; signal</stri
       <p2 x="-200" y="-320"/>
     </wire>
     <wire>
-      <p1 x="1180" y="-320"/>
-      <p2 x="1220" y="-320"/>
-    </wire>
-    <wire>
-      <p1 x="620" y="320"/>
-      <p2 x="700" y="320"/>
-    </wire>
-    <wire>
       <p1 x="1020" y="320"/>
       <p2 x="1080" y="320"/>
     </wire>
@@ -1842,12 +1586,8 @@ Will likely need to use a higher clock and a &quot;half-clock&quot; signal</stri
       <p2 x="-200" y="320"/>
     </wire>
     <wire>
-      <p1 x="1020" y="-580"/>
-      <p2 x="1100" y="-580"/>
-    </wire>
-    <wire>
-      <p1 x="880" y="-580"/>
-      <p2 x="1000" y="-580"/>
+      <p1 x="620" y="320"/>
+      <p2 x="820" y="320"/>
     </wire>
     <wire>
       <p1 x="1020" y="1220"/>
@@ -1890,20 +1630,12 @@ Will likely need to use a higher clock and a &quot;half-clock&quot; signal</stri
       <p2 x="-200" y="200"/>
     </wire>
     <wire>
-      <p1 x="1060" y="-460"/>
-      <p2 x="1100" y="-460"/>
-    </wire>
-    <wire>
       <p1 x="340" y="-460"/>
       <p2 x="400" y="-460"/>
     </wire>
     <wire>
       <p1 x="520" y="-460"/>
       <p2 x="580" y="-460"/>
-    </wire>
-    <wire>
-      <p1 x="620" y="1100"/>
-      <p2 x="700" y="1100"/>
     </wire>
     <wire>
       <p1 x="1020" y="1100"/>
@@ -1918,12 +1650,12 @@ Will likely need to use a higher clock and a &quot;half-clock&quot; signal</stri
       <p2 x="380" y="1100"/>
     </wire>
     <wire>
-      <p1 x="-400" y="460"/>
-      <p2 x="-200" y="460"/>
+      <p1 x="620" y="1100"/>
+      <p2 x="820" y="1100"/>
     </wire>
     <wire>
-      <p1 x="1180" y="-80"/>
-      <p2 x="1220" y="-80"/>
+      <p1 x="-400" y="460"/>
+      <p2 x="-200" y="460"/>
     </wire>
     <wire>
       <p1 x="240" y="720"/>
@@ -1940,10 +1672,6 @@ Will likely need to use a higher clock and a &quot;half-clock&quot; signal</stri
     <wire>
       <p1 x="620" y="80"/>
       <p2 x="700" y="80"/>
-    </wire>
-    <wire>
-      <p1 x="1020" y="-340"/>
-      <p2 x="1100" y="-340"/>
     </wire>
     <wire>
       <p1 x="340" y="-340"/>
@@ -1982,16 +1710,12 @@ Will likely need to use a higher clock and a &quot;half-clock&quot; signal</stri
       <p2 x="680" y="600"/>
     </wire>
     <wire>
-      <p1 x="300" y="600"/>
-      <p2 x="380" y="600"/>
-    </wire>
-    <wire>
       <p1 x="1200" y="600"/>
       <p2 x="1260" y="600"/>
     </wire>
     <wire>
-      <p1 x="1060" y="-220"/>
-      <p2 x="1100" y="-220"/>
+      <p1 x="320" y="600"/>
+      <p2 x="380" y="600"/>
     </wire>
     <wire>
       <p1 x="340" y="-220"/>
@@ -2018,10 +1742,6 @@ Will likely need to use a higher clock and a &quot;half-clock&quot; signal</stri
       <p2 x="880" y="1500"/>
     </wire>
     <wire>
-      <p1 x="1180" y="-480"/>
-      <p2 x="1220" y="-480"/>
-    </wire>
-    <wire>
       <p1 x="620" y="480"/>
       <p2 x="680" y="480"/>
     </wire>
@@ -2038,10 +1758,6 @@ Will likely need to use a higher clock and a &quot;half-clock&quot; signal</stri
       <p2 x="1260" y="480"/>
     </wire>
     <wire>
-      <p1 x="1020" y="-100"/>
-      <p2 x="1100" y="-100"/>
-    </wire>
-    <wire>
       <p1 x="1000" y="1380"/>
       <p2 x="1080" y="1380"/>
     </wire>
@@ -2050,12 +1766,12 @@ Will likely need to use a higher clock and a &quot;half-clock&quot; signal</stri
       <p2 x="680" y="1380"/>
     </wire>
     <wire>
-      <p1 x="300" y="1380"/>
-      <p2 x="380" y="1380"/>
-    </wire>
-    <wire>
       <p1 x="1200" y="1380"/>
       <p2 x="1260" y="1380"/>
+    </wire>
+    <wire>
+      <p1 x="320" y="1380"/>
+      <p2 x="380" y="1380"/>
     </wire>
     <wire>
       <p1 x="-400" y="740"/>
@@ -2110,16 +1826,8 @@ Will likely need to use a higher clock and a &quot;half-clock&quot; signal</stri
       <p2 x="-200" y="-240"/>
     </wire>
     <wire>
-      <p1 x="1180" y="-240"/>
-      <p2 x="1220" y="-240"/>
-    </wire>
-    <wire>
       <p1 x="620" y="240"/>
       <p2 x="680" y="240"/>
-    </wire>
-    <wire>
-      <p1 x="1000" y="240"/>
-      <p2 x="1080" y="240"/>
     </wire>
     <wire>
       <p1 x="1200" y="240"/>
@@ -2134,20 +1842,20 @@ Will likely need to use a higher clock and a &quot;half-clock&quot; signal</stri
       <p2 x="-200" y="240"/>
     </wire>
     <wire>
+      <p1 x="1020" y="240"/>
+      <p2 x="1080" y="240"/>
+    </wire>
+    <wire>
       <p1 x="-400" y="-500"/>
       <p2 x="-200" y="-500"/>
     </wire>
     <wire>
-      <p1 x="1020" y="-500"/>
-      <p2 x="1100" y="-500"/>
-    </wire>
-    <wire>
-      <p1 x="320" y="-500"/>
-      <p2 x="400" y="-500"/>
-    </wire>
-    <wire>
       <p1 x="520" y="-500"/>
       <p2 x="600" y="-500"/>
+    </wire>
+    <wire>
+      <p1 x="280" y="-500"/>
+      <p2 x="400" y="-500"/>
     </wire>
     <wire>
       <p1 x="620" y="1140"/>
@@ -2170,10 +1878,6 @@ Will likely need to use a higher clock and a &quot;half-clock&quot; signal</stri
       <p2 x="-200" y="500"/>
     </wire>
     <wire>
-      <p1 x="-400" y="-120"/>
-      <p2 x="-200" y="-120"/>
-    </wire>
-    <wire>
       <p1 x="-400" y="120"/>
       <p2 x="-200" y="120"/>
     </wire>
@@ -2184,10 +1888,6 @@ Will likely need to use a higher clock and a &quot;half-clock&quot; signal</stri
     <wire>
       <p1 x="620" y="120"/>
       <p2 x="700" y="120"/>
-    </wire>
-    <wire>
-      <p1 x="1060" y="-380"/>
-      <p2 x="1100" y="-380"/>
     </wire>
     <wire>
       <p1 x="340" y="-380"/>
@@ -2202,16 +1902,16 @@ Will likely need to use a higher clock and a &quot;half-clock&quot; signal</stri
       <p2 x="680" y="1020"/>
     </wire>
     <wire>
-      <p1 x="1000" y="1020"/>
-      <p2 x="1080" y="1020"/>
-    </wire>
-    <wire>
       <p1 x="1200" y="1020"/>
       <p2 x="1280" y="1020"/>
     </wire>
     <wire>
       <p1 x="320" y="1020"/>
       <p2 x="380" y="1020"/>
+    </wire>
+    <wire>
+      <p1 x="1020" y="1020"/>
+      <p2 x="1080" y="1020"/>
     </wire>
     <wire>
       <p1 x="1280" y="180"/>
@@ -2224,6 +1924,14 @@ Will likely need to use a higher clock and a &quot;half-clock&quot; signal</stri
     <wire>
       <p1 x="320" y="-140"/>
       <p2 x="320" y="-80"/>
+    </wire>
+    <wire>
+      <p1 x="320" y="1380"/>
+      <p2 x="320" y="1400"/>
+    </wire>
+    <wire>
+      <p1 x="320" y="600"/>
+      <p2 x="320" y="620"/>
     </wire>
     <wire>
       <p1 x="240" y="480"/>
@@ -2242,10 +1950,6 @@ Will likely need to use a higher clock and a &quot;half-clock&quot; signal</stri
       <p2 x="880" y="1500"/>
     </wire>
     <wire>
-      <p1 x="880" y="-580"/>
-      <p2 x="880" y="-180"/>
-    </wire>
-    <wire>
       <p1 x="260" y="520"/>
       <p2 x="260" y="680"/>
     </wire>
@@ -2254,36 +1958,20 @@ Will likely need to use a higher clock and a &quot;half-clock&quot; signal</stri
       <p2 x="260" y="1460"/>
     </wire>
     <wire>
-      <p1 x="1060" y="-680"/>
-      <p2 x="1060" y="-540"/>
+      <p1 x="820" y="320"/>
+      <p2 x="820" y="400"/>
     </wire>
     <wire>
-      <p1 x="1060" y="-60"/>
-      <p2 x="1060" y="20"/>
+      <p1 x="820" y="1100"/>
+      <p2 x="820" y="1180"/>
     </wire>
     <wire>
-      <p1 x="1060" y="-540"/>
-      <p2 x="1060" y="-460"/>
+      <p1 x="820" y="400"/>
+      <p2 x="820" y="460"/>
     </wire>
     <wire>
-      <p1 x="1060" y="-460"/>
-      <p2 x="1060" y="-380"/>
-    </wire>
-    <wire>
-      <p1 x="1060" y="-380"/>
-      <p2 x="1060" y="-300"/>
-    </wire>
-    <wire>
-      <p1 x="1060" y="-300"/>
-      <p2 x="1060" y="-220"/>
-    </wire>
-    <wire>
-      <p1 x="1060" y="-220"/>
-      <p2 x="1060" y="-140"/>
-    </wire>
-    <wire>
-      <p1 x="1060" y="-140"/>
-      <p2 x="1060" y="-60"/>
+      <p1 x="820" y="1180"/>
+      <p2 x="820" y="1240"/>
     </wire>
     <wire>
       <p1 x="1000" y="600"/>
@@ -2306,6 +1994,10 @@ Will likely need to use a higher clock and a &quot;half-clock&quot; signal</stri
       <p2 x="280" y="1420"/>
     </wire>
     <wire>
+      <p1 x="280" y="-500"/>
+      <p2 x="280" y="-440"/>
+    </wire>
+    <wire>
       <p1 x="700" y="20"/>
       <p2 x="700" y="80"/>
     </wire>
@@ -2320,6 +2012,14 @@ Will likely need to use a higher clock and a &quot;half-clock&quot; signal</stri
     <wire>
       <p1 x="700" y="80"/>
       <p2 x="700" y="120"/>
+    </wire>
+    <wire>
+      <p1 x="1020" y="240"/>
+      <p2 x="1020" y="260"/>
+    </wire>
+    <wire>
+      <p1 x="1020" y="1020"/>
+      <p2 x="1020" y="1040"/>
     </wire>
   </wires>
   <measurementOrdering/>

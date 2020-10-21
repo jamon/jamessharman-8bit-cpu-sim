@@ -8,6 +8,11 @@
       <elementAttributes/>
       <pos x="320" y="120"/>
     </visualElement>
+    <visualElement>
+      <elementName>pipeline-stage1.dig</elementName>
+      <elementAttributes/>
+      <pos x="780" y="120"/>
+    </visualElement>
   </visualElements>
   <wires/>
   <measurementOrdering/>

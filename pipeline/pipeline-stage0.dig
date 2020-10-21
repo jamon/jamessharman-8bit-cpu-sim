@@ -966,20 +966,24 @@
       <elementAttributes>
         <entry>
           <string>Label</string>
-          <string>Pipe0Out\_0\_IncPCRA0</string>
+          <string>Pipe0Out</string>
+        </entry>
+        <entry>
+          <string>Bits</string>
+          <int>8</int>
         </entry>
       </elementAttributes>
-      <pos x="-720" y="540"/>
+      <pos x="-720" y="660"/>
     </visualElement>
     <visualElement>
       <elementName>Out</elementName>
       <elementAttributes>
         <entry>
           <string>Label</string>
-          <string>Pipe0Out\_1\_IncPCRA1</string>
+          <string>Pipe0Out\_0\_IncPCRA0</string>
         </entry>
       </elementAttributes>
-      <pos x="-720" y="600"/>
+      <pos x="-720" y="540"/>
     </visualElement>
     <visualElement>
       <elementName>Tunnel</elementName>
@@ -1053,14 +1057,10 @@
       <elementAttributes>
         <entry>
           <string>Label</string>
-          <string>Pipe0Out</string>
-        </entry>
-        <entry>
-          <string>Bits</string>
-          <int>8</int>
+          <string>Pipe0Out\_1\_IncPCRA1</string>
         </entry>
       </elementAttributes>
-      <pos x="-720" y="660"/>
+      <pos x="-720" y="600"/>
     </visualElement>
     <visualElement>
       <elementName>Splitter</elementName>
