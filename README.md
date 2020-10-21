@@ -11,6 +11,10 @@ You can find the .dig files (use [Digital](https://github.com/hneemann/Digital) 
 
 Right now, I'm generally leaning toward using modules for any ICs that are more complex than single gates--and staying true to the IC choices used in the build, with exception to simple gates.  I'll likely fork this for my own build, where I'll likely choose differeng ICs, simply because it's what I have on hand, or personal preference, but I'll try to keep this repository matched with the official build.
 
+# Main CPU
+## CPU
+![CPU](https://raw.githubusercontent.com/jamon/jamessharman-8bit-cpu-sim/main/Cpu.svg)
+
 # Pipeline
 
 ## Stage 0 - Fetch
@@ -20,8 +24,10 @@ Right now, I'm generally leaning toward using modules for any ICs that are more 
 ![Stage 1](https://raw.githubusercontent.com/jamon/jamessharman-8bit-cpu-sim/main/pipeline/pipeline-stage1.svg)
 
 
+## Stage 2
+![Stage 2](https://raw.githubusercontent.com/jamon/jamessharman-8bit-cpu-sim/main/pipeline/pipeline-stage2.svg)
+
 # ALU
-![ALU](https://raw.githubusercontent.com/jamon/jamessharman-8bit-cpu-sim/main/alu/alu.svg)
 
 ## LHS (Shift Unit)
 ![Shift](https://raw.githubusercontent.com/jamon/jamessharman-8bit-cpu-sim/main/alu/shift.svg)
@@ -32,11 +38,14 @@ Right now, I'm generally leaning toward using modules for any ICs that are more 
 ## Flags
 ![Flags](https://raw.githubusercontent.com/jamon/jamessharman-8bit-cpu-sim/main/alu/flags.svg)
 
-# Main Bus
-![Main Bus](https://raw.githubusercontent.com/jamon/jamessharman-8bit-cpu-sim/main/mainbus/mainbus.svg)
+# Core
 
 ## Bus Control
 ![Bus Control](https://raw.githubusercontent.com/jamon/jamessharman-8bit-cpu-sim/main/mainbus/buscontrol.svg)
 
 ## 8-bit General Purpose Register
 ![8-bit GPR](https://raw.githubusercontent.com/jamon/jamessharman-8bit-cpu-sim/main/mainbus/reg-8bit-generalpurpose.svg)
+
+## Memory
+![Memory](https://raw.githubusercontent.com/jamon/jamessharman-8bit-cpu-sim/main/mainbus/memory.svg)
+
