@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Created with Digital by H.Neemann -->
-<!-- created: Tue Oct 20 23:05:29 CDT 2020 -->
+<!-- created: Wed Oct 21 23:49:32 CDT 2020 -->
 
 <svg
    xmlns:svg="http://www.w3.org/2000/svg"
@@ -46,9 +46,8 @@
 <path d="M 540,-280 L 580,-280" stroke="#0000b2" stroke-width="4.0" fill="none"/>
 <path d="M 3200,-280 L 3240,-280" stroke="#0000b2" stroke-width="4.0" fill="none"/>
 <path d="M 2760,-280 L 2800,-280" stroke="#0000b2" stroke-width="4.0" fill="none"/>
-<path d="M 20,920 L 60,920" stroke="#0000b2" stroke-width="4.0" fill="none"/>
-<path d="M -320,920 L -280,920" stroke="#0000b2" stroke-width="4.0" fill="none"/>
 <path d="M 2200,280 L 2240,280" stroke="#0000b2" stroke-width="4.0" fill="none"/>
+<path d="M -320,920 L -280,920" stroke="#0000b2" stroke-width="4.0" fill="none"/>
 <path d="M 1920,-540 L 1960,-540" stroke="#0000b2" stroke-width="4.0" fill="none"/>
 <path d="M 2200,540 L 2240,540" stroke="#0000b2" stroke-width="4.0" fill="none"/>
 <path d="M 1760,540 L 1800,540" stroke="#0000b2" stroke-width="4.0" fill="none"/>
@@ -79,9 +78,8 @@
 <path d="M 540,-300 L 580,-300" stroke="#0000b2" stroke-width="4.0" fill="none"/>
 <path d="M 3200,-300 L 3240,-300" stroke="#0000b2" stroke-width="4.0" fill="none"/>
 <path d="M 2760,-300 L 2800,-300" stroke="#0000b2" stroke-width="4.0" fill="none"/>
-<path d="M 20,940 L 60,940" stroke="#0000b2" stroke-width="4.0" fill="none"/>
-<path d="M -320,940 L -280,940" stroke="#0000b2" stroke-width="4.0" fill="none"/>
 <path d="M 2200,300 L 2240,300" stroke="#0000b2" stroke-width="4.0" fill="none"/>
+<path d="M -320,940 L -280,940" stroke="#0000b2" stroke-width="4.0" fill="none"/>
 <path d="M 1760,560 L 1800,560" stroke="#0000b2" stroke-width="4.0" fill="none"/>
 <path d="M 2200,560 L 2240,560" stroke="#0000b2" stroke-width="4.0" fill="none"/>
 <path d="M 3200,-180 L 3240,-180" stroke="#0000b2" stroke-width="4.0" fill="none"/>
@@ -111,8 +109,8 @@
 <path d="M 1380,-320 L 1420,-320" stroke="#0000b2" stroke-width="4.0" fill="none"/>
 <path d="M 2760,-320 L 2800,-320" stroke="#0000b2" stroke-width="4.0" fill="none"/>
 <path d="M 3200,-320 L 3240,-320" stroke="#0000b2" stroke-width="4.0" fill="none"/>
-<path d="M -320,960 L -280,960" stroke="#0000b2" stroke-width="4.0" fill="none"/>
 <path d="M 2200,320 L 2240,320" stroke="#0000b2" stroke-width="4.0" fill="none"/>
+<path d="M -320,960 L -280,960" stroke="#0000b2" stroke-width="4.0" fill="none"/>
 <path d="M 2200,580 L 2240,580" stroke="#0000b2" stroke-width="4.0" fill="none"/>
 <path d="M 1760,580 L 1800,580" stroke="#0000b2" stroke-width="4.0" fill="none"/>
 <path d="M 20,580 L 60,580" stroke="#0000b2" stroke-width="4.0" fill="none"/>
@@ -163,11 +161,12 @@
 <path d="M 2200,100 L 2240,100" stroke="#0000b2" stroke-width="4.0" fill="none"/>
 <path d="M 2200,740 L 2240,740" stroke="#0000b2" stroke-width="4.0" fill="none"/>
 <path d="M 1920,-360 L 1960,-360" stroke="#0000b2" stroke-width="4.0" fill="none"/>
+<path d="M -320,1000 L -280,1000" stroke="#0000b2" stroke-width="4.0" fill="none"/>
+<path d="M 2200,1000 L 2240,1000" stroke="#0000b2" stroke-width="4.0" fill="none"/>
+<path d="M 1760,1000 L 1800,1000" stroke="#0000b2" stroke-width="4.0" fill="none"/>
 <path d="M 2200,360 L 2240,360" stroke="#0000b2" stroke-width="4.0" fill="none"/>
 <path d="M 20,360 L 60,360" stroke="#0000b2" stroke-width="4.0" fill="none"/>
 <path d="M -320,360 L -280,360" stroke="#0000b2" stroke-width="4.0" fill="none"/>
-<path d="M 2200,1000 L 2240,1000" stroke="#0000b2" stroke-width="4.0" fill="none"/>
-<path d="M 1760,1000 L 1800,1000" stroke="#0000b2" stroke-width="4.0" fill="none"/>
 <path d="M 20,620 L 60,620" stroke="#0000b2" stroke-width="4.0" fill="none"/>
 <path d="M -320,620 L -280,620" stroke="#0000b2" stroke-width="4.0" fill="none"/>
 <path d="M 1760,620 L 1800,620" stroke="#0000b2" stroke-width="4.0" fill="none"/>
@@ -184,12 +183,14 @@
 <path d="M 2760,120 L 2800,120" stroke="#0000b2" stroke-width="4.0" fill="none"/>
 <path d="M 1760,120 L 1800,120" stroke="#0000b2" stroke-width="4.0" fill="none"/>
 <path d="M 2200,120 L 2240,120" stroke="#0000b2" stroke-width="4.0" fill="none"/>
+<path d="M 3200,120 L 3240,120" stroke="#0000b2" stroke-width="4.0" fill="none"/>
 <path d="M 2200,760 L 2240,760" stroke="#0000b2" stroke-width="4.0" fill="none"/>
+<path d="M 2200,1020 L 2240,1020" stroke="#0000b2" stroke-width="4.0" fill="none"/>
+<path d="M 1760,1020 L 1800,1020" stroke="#0000b2" stroke-width="4.0" fill="none"/>
+<path d="M -320,1020 L -280,1020" stroke="#0000b2" stroke-width="4.0" fill="none"/>
 <path d="M -320,380 L -280,380" stroke="#0000b2" stroke-width="4.0" fill="none"/>
 <path d="M 20,380 L 60,380" stroke="#0000b2" stroke-width="4.0" fill="none"/>
 <path d="M 2200,380 L 2240,380" stroke="#0000b2" stroke-width="4.0" fill="none"/>
-<path d="M 2200,1020 L 2240,1020" stroke="#0000b2" stroke-width="4.0" fill="none"/>
-<path d="M 1760,1020 L 1800,1020" stroke="#0000b2" stroke-width="4.0" fill="none"/>
 <g>
 </g>
 <g>
@@ -1521,51 +1522,41 @@
 <circle cx="2760.0" cy="-40.0" r="2.0" stroke="#0000b2" stroke-width="4.0" fill="#0000b2" />
 </g>
 <g>
-<path d="M -279,906 L 19,906 L 19,994 L -279,994 Z" stroke="#ffffb4" stroke-width="0.0" fill="#ffffb4" fill-opacity="0.7843137254901961"/>
-<path d="M -279,906 L 19,906 L 19,994 L -279,994 Z" stroke="#000000" stroke-width="4.0" fill="none"/>
-<text text-anchor="start" x="-276.0" y="926.75" fill="#808080" style="font-size:18px">MemBridge_Direction</text>
-<text text-anchor="start" x="-276.0" y="946.75" fill="#808080" style="font-size:18px">MemBridge_Load</text>
-<text text-anchor="start" x="-276.0" y="966.75" fill="#808080" style="font-size:18px">AddrIn</text>
-<text text-anchor="start" x="-276.0" y="986.75" fill="#808080" style="font-size:18px">MEMDATAIn</text>
-<text text-anchor="end" x="16.0" y="926.75" fill="#808080" style="font-size:18px">AddrOut</text>
-<text text-anchor="end" x="16.0" y="946.75" fill="#808080" style="font-size:18px">MEMDATAOut</text>
-<text text-anchor="middle" x="-130.0" y="1011.5" fill="#808080" style="font-size:18px">memory</text>
+<path d="M -279,906 L 19,906 L 19,1034 L -279,1034 Z" stroke="#ffffb4" stroke-width="0.0" fill="#ffffb4" fill-opacity="0.7843137254901961"/>
+<path d="M -279,906 L 19,906 L 19,1034 L -279,1034 Z" stroke="#000000" stroke-width="4.0" fill="none"/>
+<text text-anchor="start" x="-276.0" y="926.75" fill="#808080" style="font-size:18px">Addr</text>
+<text text-anchor="start" x="-276.0" y="946.75" fill="#808080" style="font-size:18px">MainBus</text>
+<text text-anchor="start" x="-276.0" y="966.75" fill="#808080" style="font-size:18px">MEMDATA</text>
+<text text-anchor="start" x="-276.0" y="986.75" fill="#808080" style="font-size:18px">MemBridge_Direction</text>
+<text text-anchor="start" x="-276.0" y="1006.75" fill="#808080" style="font-size:18px">MemBridge_Load</text>
+<text text-anchor="start" x="-276.0" y="1026.75" fill="#808080" style="font-size:18px">MemBridge_Assert</text>
+<text text-anchor="middle" x="-130.0" y="1051.5" fill="#808080" style="font-size:18px">memory</text>
 <circle cx="-280.0" cy="920.0" r="2.0" stroke="#0000b2" stroke-width="4.0" fill="#0000b2" />
 <circle cx="-280.0" cy="940.0" r="2.0" stroke="#0000b2" stroke-width="4.0" fill="#0000b2" />
 <circle cx="-280.0" cy="960.0" r="2.0" stroke="#0000b2" stroke-width="4.0" fill="#0000b2" />
 <circle cx="-280.0" cy="980.0" r="2.0" stroke="#0000b2" stroke-width="4.0" fill="#0000b2" />
-<circle cx="20.0" cy="920.0" r="2.0" stroke="#b20000" stroke-width="4.0" fill="#b20000" />
-<circle cx="20.0" cy="940.0" r="2.0" stroke="#b20000" stroke-width="4.0" fill="#b20000" />
-</g>
-<g>
-<path d="M -320,980 L -334,972 L -334,988 Z" stroke="#000000" stroke-width="4.0" fill="none"/>
-<text text-anchor="end" x="-339.0" y="986.75" fill="#808080" style="font-size:18px">BUS_Memory</text>
-<circle cx="-320.0" cy="980.0" r="2.0" stroke="#0000b2" stroke-width="4.0" fill="#0000b2" />
-</g>
-<g>
-<path d="M 60,940 L 74,948 L 74,932 Z" stroke="#000000" stroke-width="4.0" fill="none"/>
-<text text-anchor="start" x="79.0" y="946.75" fill="#808080" style="font-size:18px">BUS_Memory</text>
-<circle cx="60.0" cy="940.0" r="2.0" stroke="#0000b2" stroke-width="4.0" fill="#0000b2" />
-</g>
-<g>
-<path d="M 60,920 L 74,928 L 74,912 Z" stroke="#000000" stroke-width="4.0" fill="none"/>
-<text text-anchor="start" x="79.0" y="926.75" fill="#808080" style="font-size:18px">BUS_Addr</text>
-<circle cx="60.0" cy="920.0" r="2.0" stroke="#0000b2" stroke-width="4.0" fill="#0000b2" />
+<circle cx="-280.0" cy="1000.0" r="2.0" stroke="#0000b2" stroke-width="4.0" fill="#0000b2" />
+<circle cx="-280.0" cy="1020.0" r="2.0" stroke="#0000b2" stroke-width="4.0" fill="#0000b2" />
 </g>
 <g>
 <path d="M -320,960 L -334,952 L -334,968 Z" stroke="#000000" stroke-width="4.0" fill="none"/>
-<text text-anchor="end" x="-339.0" y="966.75" fill="#808080" style="font-size:18px">BUS_Addr</text>
+<text text-anchor="end" x="-339.0" y="966.75" fill="#808080" style="font-size:18px">BUS_Memory</text>
 <circle cx="-320.0" cy="960.0" r="2.0" stroke="#0000b2" stroke-width="4.0" fill="#0000b2" />
 </g>
 <g>
-<path d="M -320,940 L -334,932 L -334,948 Z" stroke="#000000" stroke-width="4.0" fill="none"/>
-<text text-anchor="end" x="-339.0" y="946.75" fill="#808080" style="font-size:18px">Control_MemBridge_Load</text>
-<circle cx="-320.0" cy="940.0" r="2.0" stroke="#0000b2" stroke-width="4.0" fill="#0000b2" />
+<path d="M -320,920 L -334,912 L -334,928 Z" stroke="#000000" stroke-width="4.0" fill="none"/>
+<text text-anchor="end" x="-339.0" y="926.75" fill="#808080" style="font-size:18px">BUS_Addr</text>
+<circle cx="-320.0" cy="920.0" r="2.0" stroke="#0000b2" stroke-width="4.0" fill="#0000b2" />
 </g>
 <g>
-<path d="M -320,920 L -334,912 L -334,928 Z" stroke="#000000" stroke-width="4.0" fill="none"/>
-<text text-anchor="end" x="-339.0" y="926.75" fill="#808080" style="font-size:18px">Control_MemBridge_Direction</text>
-<circle cx="-320.0" cy="920.0" r="2.0" stroke="#0000b2" stroke-width="4.0" fill="#0000b2" />
+<path d="M -320,1000 L -334,992 L -334,1008 Z" stroke="#000000" stroke-width="4.0" fill="none"/>
+<text text-anchor="end" x="-339.0" y="1006.75" fill="#808080" style="font-size:18px">Control_MemBridge_Load</text>
+<circle cx="-320.0" cy="1000.0" r="2.0" stroke="#0000b2" stroke-width="4.0" fill="#0000b2" />
+</g>
+<g>
+<path d="M -320,980 L -334,972 L -334,988 Z" stroke="#000000" stroke-width="4.0" fill="none"/>
+<text text-anchor="end" x="-339.0" y="986.75" fill="#808080" style="font-size:18px">Control_MemBridge_Direction</text>
+<circle cx="-320.0" cy="980.0" r="2.0" stroke="#0000b2" stroke-width="4.0" fill="#0000b2" />
 </g>
 <g>
 <path d="M 1960,-40 L 1974,-32 L 1974,-48 Z" stroke="#000000" stroke-width="4.0" fill="none"/>
@@ -1678,6 +1669,21 @@
 <circle cx="1904.0" cy="-120.0" r="9.0" stroke="#000000" stroke-width="4.0" fill="none" />
 <text text-anchor="end" x="1875.0" y="-111.0" fill="#000000" style="font-size:24px"><tspan style="font-style:italic;">CarrySelectB</tspan></text>
 <circle cx="1920.0" cy="-120.0" r="2.0" stroke="#b20000" stroke-width="4.0" fill="#b20000" />
+</g>
+<g>
+<path d="M -320,940 L -334,932 L -334,948 Z" stroke="#000000" stroke-width="4.0" fill="none"/>
+<text text-anchor="end" x="-339.0" y="946.75" fill="#808080" style="font-size:18px">Bus_Main</text>
+<circle cx="-320.0" cy="940.0" r="2.0" stroke="#0000b2" stroke-width="4.0" fill="#0000b2" />
+</g>
+<g>
+<path d="M -320,1020 L -334,1012 L -334,1028 Z" stroke="#000000" stroke-width="4.0" fill="none"/>
+<text text-anchor="end" x="-339.0" y="1026.75" fill="#808080" style="font-size:18px">Control_MemBridge_Assert</text>
+<circle cx="-320.0" cy="1020.0" r="2.0" stroke="#0000b2" stroke-width="4.0" fill="#0000b2" />
+</g>
+<g>
+<path d="M 3240,120 L 3254,128 L 3254,112 Z" stroke="#000000" stroke-width="4.0" fill="none"/>
+<text text-anchor="start" x="3259.0" y="126.75" fill="#808080" style="font-size:18px">Control_MemBridge_Assert</text>
+<circle cx="3240.0" cy="120.0" r="2.0" stroke="#0000b2" stroke-width="4.0" fill="#0000b2" />
 </g>
 </g>
 </svg>
