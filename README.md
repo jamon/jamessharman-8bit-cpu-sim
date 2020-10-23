@@ -49,6 +49,9 @@ Right now, I'm generally leaning toward using modules for any ICs that are more 
 ## 16-bit Up/Down/Load Register (PCRA0, PCRA1, SP, SI, DI)
 ![16-bit Up/Down/Load](https://raw.githubusercontent.com/jamon/jamessharman-8bit-cpu-sim/main/mainbus/reg-16bit-updownload.svg)
 
+## Constant Register
+![Constant Register](https://raw.githubusercontent.com/jamon/jamessharman-8bit-cpu-sim/main/mainbus/reg-constant.svg)
+
 ## Memory
 ![Memory](https://raw.githubusercontent.com/jamon/jamessharman-8bit-cpu-sim/main/mainbus/memory.svg)
 
