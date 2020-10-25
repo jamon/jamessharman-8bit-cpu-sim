@@ -38,7 +38,7 @@ DATA Polling for End of Write Detection not implemented!</string>
         </entry>
         <entry>
           <string>Data</string>
-          <data>c</data>
+          <data>1,a,2,b,88</data>
         </entry>
         <entry>
           <string>inverterConfig</string>
