@@ -41,6 +41,10 @@ DATA Polling for End of Write Detection not implemented!</string>
           <int>8</int>
         </entry>
         <entry>
+          <string>Data</string>
+          <data>76,32,2e,30,20,72,61,77,d,a</data>
+        </entry>
+        <entry>
           <string>inverterConfig</string>
           <inverterConfig>
             <string>CS</string>
