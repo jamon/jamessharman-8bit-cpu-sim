@@ -29,6 +29,10 @@ Right now, I'm generally leaning toward using modules for any ICs that are more 
 
 I very much welcome contributions and forks of this project!  If you'd like to help with the primary build, please reach out to me.  If you'd like to fork it and use it to implement something different, feel free!
 
+# Tests
+## First mostly-successful run!!!
+![Test](https://raw.githubusercontent.com/jamon/jamessharman-8bit-cpu-sim/main/tests/test0-annotated.svg)
+
 
 # Main CPU
 ## CPU
