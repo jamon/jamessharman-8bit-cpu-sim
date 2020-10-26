@@ -576,6 +576,20 @@
       </elementAttributes>
       <pos x="320" y="620"/>
     </visualElement>
+    <visualElement>
+      <elementName>Out</elementName>
+      <elementAttributes>
+        <entry>
+          <string>Label</string>
+          <string>RegisterContents</string>
+        </entry>
+        <entry>
+          <string>Bits</string>
+          <int>8</int>
+        </entry>
+      </elementAttributes>
+      <pos x="2520" y="820"/>
+    </visualElement>
   </visualElements>
   <wires>
     <wire>
@@ -893,6 +907,10 @@
     <wire>
       <p1 x="1880" y="820"/>
       <p2 x="2380" y="820"/>
+    </wire>
+    <wire>
+      <p1 x="2380" y="820"/>
+      <p2 x="2520" y="820"/>
     </wire>
     <wire>
       <p1 x="320" y="760"/>
