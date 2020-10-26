@@ -128,10 +128,6 @@
       <elementName>Splitter</elementName>
       <elementAttributes>
         <entry>
-          <string>mirror</string>
-          <boolean>true</boolean>
-        </entry>
-        <entry>
           <string>splitterSpreading</string>
           <int>2</int>
         </entry>
@@ -140,7 +136,7 @@
           <string>1,1,1,1,1,1,1,1</string>
         </entry>
       </elementAttributes>
-      <pos x="680" y="720"/>
+      <pos x="680" y="440"/>
     </visualElement>
     <visualElement>
       <elementName>VDD</elementName>
@@ -357,10 +353,6 @@
       <elementName>Splitter</elementName>
       <elementAttributes>
         <entry>
-          <string>mirror</string>
-          <boolean>true</boolean>
-        </entry>
-        <entry>
           <string>splitterSpreading</string>
           <int>2</int>
         </entry>
@@ -369,7 +361,7 @@
           <string>1,1,1,1,1,1,1,1</string>
         </entry>
       </elementAttributes>
-      <pos x="680" y="1500"/>
+      <pos x="680" y="1220"/>
     </visualElement>
     <visualElement>
       <elementName>VDD</elementName>
@@ -1426,6 +1418,10 @@ Will likely need to use a higher clock and a &quot;half-clock&quot; signal</stri
       <p2 x="-200" y="540"/>
     </wire>
     <wire>
+      <p1 x="780" y="540"/>
+      <p2 x="860" y="540"/>
+    </wire>
+    <wire>
       <p1 x="320" y="160"/>
       <p2 x="380" y="160"/>
     </wire>
@@ -1468,6 +1464,10 @@ Will likely need to use a higher clock and a &quot;half-clock&quot; signal</stri
     <wire>
       <p1 x="260" y="680"/>
       <p2 x="680" y="680"/>
+    </wire>
+    <wire>
+      <p1 x="760" y="1320"/>
+      <p2 x="880" y="1320"/>
     </wire>
     <wire>
       <p1 x="340" y="-300"/>
@@ -1546,6 +1546,10 @@ Will likely need to use a higher clock and a &quot;half-clock&quot; signal</stri
       <p2 x="1260" y="440"/>
     </wire>
     <wire>
+      <p1 x="700" y="440"/>
+      <p2 x="780" y="440"/>
+    </wire>
+    <wire>
       <p1 x="620" y="1340"/>
       <p2 x="680" y="1340"/>
     </wire>
@@ -1610,6 +1614,10 @@ Will likely need to use a higher clock and a &quot;half-clock&quot; signal</stri
       <p2 x="300" y="1220"/>
     </wire>
     <wire>
+      <p1 x="700" y="1220"/>
+      <p2 x="760" y="1220"/>
+    </wire>
+    <wire>
       <p1 x="-400" y="580"/>
       <p2 x="-200" y="580"/>
     </wire>
@@ -1660,10 +1668,6 @@ Will likely need to use a higher clock and a &quot;half-clock&quot; signal</stri
     <wire>
       <p1 x="240" y="720"/>
       <p2 x="680" y="720"/>
-    </wire>
-    <wire>
-      <p1 x="700" y="720"/>
-      <p2 x="860" y="720"/>
     </wire>
     <wire>
       <p1 x="320" y="80"/>
@@ -1736,10 +1740,6 @@ Will likely need to use a higher clock and a &quot;half-clock&quot; signal</stri
     <wire>
       <p1 x="240" y="1500"/>
       <p2 x="680" y="1500"/>
-    </wire>
-    <wire>
-      <p1 x="700" y="1500"/>
-      <p2 x="880" y="1500"/>
     </wire>
     <wire>
       <p1 x="620" y="480"/>
@@ -1934,6 +1934,26 @@ Will likely need to use a higher clock and a &quot;half-clock&quot; signal</stri
       <p2 x="320" y="620"/>
     </wire>
     <wire>
+      <p1 x="260" y="520"/>
+      <p2 x="260" y="680"/>
+    </wire>
+    <wire>
+      <p1 x="260" y="1300"/>
+      <p2 x="260" y="1460"/>
+    </wire>
+    <wire>
+      <p1 x="1000" y="600"/>
+      <p2 x="1000" y="660"/>
+    </wire>
+    <wire>
+      <p1 x="1000" y="1380"/>
+      <p2 x="1000" y="1440"/>
+    </wire>
+    <wire>
+      <p1 x="780" y="440"/>
+      <p2 x="780" y="540"/>
+    </wire>
+    <wire>
       <p1 x="240" y="480"/>
       <p2 x="240" y="720"/>
     </wire>
@@ -1943,15 +1963,7 @@ Will likely need to use a higher clock and a &quot;half-clock&quot; signal</stri
     </wire>
     <wire>
       <p1 x="880" y="1060"/>
-      <p2 x="880" y="1500"/>
-    </wire>
-    <wire>
-      <p1 x="260" y="520"/>
-      <p2 x="260" y="680"/>
-    </wire>
-    <wire>
-      <p1 x="260" y="1300"/>
-      <p2 x="260" y="1460"/>
+      <p2 x="880" y="1320"/>
     </wire>
     <wire>
       <p1 x="820" y="320"/>
@@ -1970,14 +1982,6 @@ Will likely need to use a higher clock and a &quot;half-clock&quot; signal</stri
       <p2 x="820" y="1240"/>
     </wire>
     <wire>
-      <p1 x="1000" y="600"/>
-      <p2 x="1000" y="660"/>
-    </wire>
-    <wire>
-      <p1 x="1000" y="1380"/>
-      <p2 x="1000" y="1440"/>
-    </wire>
-    <wire>
       <p1 x="600" y="-560"/>
       <p2 x="600" y="-500"/>
     </wire>
@@ -1992,6 +1996,10 @@ Will likely need to use a higher clock and a &quot;half-clock&quot; signal</stri
     <wire>
       <p1 x="280" y="-500"/>
       <p2 x="280" y="-440"/>
+    </wire>
+    <wire>
+      <p1 x="760" y="1220"/>
+      <p2 x="760" y="1320"/>
     </wire>
     <wire>
       <p1 x="700" y="20"/>
@@ -2019,7 +2027,7 @@ Will likely need to use a higher clock and a &quot;half-clock&quot; signal</stri
     </wire>
     <wire>
       <p1 x="860" y="280"/>
-      <p2 x="860" y="720"/>
+      <p2 x="860" y="540"/>
     </wire>
   </wires>
   <measurementOrdering/>

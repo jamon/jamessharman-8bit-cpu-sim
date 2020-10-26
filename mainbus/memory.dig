@@ -178,7 +178,7 @@
       <elementAttributes>
         <entry>
           <string>NetName</string>
-          <string>Addr0</string>
+          <string>Addr11</string>
         </entry>
       </elementAttributes>
       <pos x="1980" y="400"/>
@@ -622,7 +622,7 @@
       <elementAttributes>
         <entry>
           <string>NetName</string>
-          <string>Addr0</string>
+          <string>Addr11</string>
         </entry>
       </elementAttributes>
       <pos x="1980" y="1040"/>

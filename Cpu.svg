@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Created with Digital by H.Neemann -->
-<!-- created: Sun Oct 25 15:25:16 CDT 2020 -->
+<!-- created: Mon Oct 26 14:16:02 CDT 2020 -->
 
 <svg
    xmlns:svg="http://www.w3.org/2000/svg"
@@ -9,6 +9,11 @@
    height="253.8mm"
    viewBox="-1325 -482 4826 1692">
 <g stroke-linecap="square">
+<path d="M 980,240 L 990,240 L 1000,240" stroke="#000000" stroke-width="4.0" fill="none"/>
+<path d="M 1000,260 L 990,260" stroke="#000000" stroke-width="4.0" fill="none"/>
+<path d="M 1000,280 L 990,280" stroke="#000000" stroke-width="4.0" fill="none"/>
+<path d="M 1000,300 L 990,300" stroke="#000000" stroke-width="4.0" fill="none"/>
+<path d="M 1000,320 L 990,320" stroke="#000000" stroke-width="4.0" fill="none"/>
 <path d="M 2760,0 L 2800,0" stroke="#0000b2" stroke-width="4.0" fill="none"/>
 <path d="M -320,0 L -280,0" stroke="#0000b2" stroke-width="4.0" fill="none"/>
 <path d="M -1080,0 L -1040,0" stroke="#0000b2" stroke-width="4.0" fill="none"/>
@@ -133,6 +138,7 @@
 <path d="M 3200,-180 L 3240,-180" stroke="#0000b2" stroke-width="4.0" fill="none"/>
 <path d="M 2760,-180 L 2800,-180" stroke="#0000b2" stroke-width="4.0" fill="none"/>
 <path d="M -1080,-180 L -1040,-180" stroke="#0000b2" stroke-width="4.0" fill="none"/>
+<path d="M 3200,820 L 3240,820" stroke="#0000b2" stroke-width="4.0" fill="none"/>
 <path d="M 1000,820 L 1060,820" stroke="#0000b2" stroke-width="4.0" fill="none"/>
 <path d="M 2200,820 L 2240,820" stroke="#0000b2" stroke-width="4.0" fill="none"/>
 <path d="M -1080,180 L -1040,180" stroke="#0000b2" stroke-width="4.0" fill="none"/>
@@ -226,7 +232,6 @@
 <path d="M 840,220 L 880,220" stroke="#0000b2" stroke-width="4.0" fill="none"/>
 <path d="M -1080,220 L -1040,220" stroke="#0000b2" stroke-width="4.0" fill="none"/>
 <path d="M -320,220 L -280,220" stroke="#0000b2" stroke-width="4.0" fill="none"/>
-<path d="M 3200,220 L 3240,220" stroke="#0000b2" stroke-width="4.0" fill="none"/>
 <path d="M 2760,220 L 2800,220" stroke="#0000b2" stroke-width="4.0" fill="none"/>
 <path d="M 1760,220 L 1800,220" stroke="#0000b2" stroke-width="4.0" fill="none"/>
 <path d="M 2200,220 L 2240,220" stroke="#0000b2" stroke-width="4.0" fill="none"/>
@@ -286,11 +291,6 @@
 <path d="M 3200,1020 L 3240,1020" stroke="#0000b2" stroke-width="4.0" fill="none"/>
 <path d="M 2200,1020 L 2240,1020" stroke="#0000b2" stroke-width="4.0" fill="none"/>
 <path d="M 1760,1020 L 1800,1020" stroke="#0000b2" stroke-width="4.0" fill="none"/>
-<path d="M 980,240 L 990,240 L 1000,240" stroke="#000000" stroke-width="4.0" fill="none"/>
-<path d="M 1000,260 L 990,260" stroke="#000000" stroke-width="4.0" fill="none"/>
-<path d="M 1000,280 L 990,280" stroke="#000000" stroke-width="4.0" fill="none"/>
-<path d="M 1000,300 L 990,300" stroke="#000000" stroke-width="4.0" fill="none"/>
-<path d="M 1000,320 L 990,320" stroke="#000000" stroke-width="4.0" fill="none"/>
 <g>
 </g>
 <g>
@@ -1068,11 +1068,6 @@
 <path d="M 3240,200 L 3254,208 L 3254,192 Z" stroke="#000000" stroke-width="4.0" fill="none"/>
 <text text-anchor="start" x="3259.0" y="206.75" fill="#808080" style="font-size:18px">Control_Reg_D_Load</text>
 <circle cx="3240.0" cy="200.0" r="2.0" stroke="#0000b2" stroke-width="4.0" fill="#0000b2" />
-</g>
-<g>
-<path d="M 3240,220 L 3254,228 L 3254,212 Z" stroke="#000000" stroke-width="4.0" fill="none"/>
-<text text-anchor="start" x="3259.0" y="226.75" fill="#808080" style="font-size:18px">Control_Reg_Const_Load</text>
-<circle cx="3240.0" cy="220.0" r="2.0" stroke="#0000b2" stroke-width="4.0" fill="#0000b2" />
 </g>
 <g>
 <path d="M 3240,240 L 3254,248 L 3254,232 Z" stroke="#000000" stroke-width="4.0" fill="none"/>
@@ -2463,6 +2458,11 @@
 <path d="M 840,280 L 826,272 L 826,288 Z" stroke="#000000" stroke-width="4.0" fill="none"/>
 <text text-anchor="end" x="821.0" y="286.75" fill="#808080" style="font-size:18px">Pipe1Out_7_ALUOP3</text>
 <circle cx="840.0" cy="280.0" r="2.0" stroke="#0000b2" stroke-width="4.0" fill="#0000b2" />
+</g>
+<g>
+<path d="M 3240,820 L 3254,828 L 3254,812 Z" stroke="#000000" stroke-width="4.0" fill="none"/>
+<text text-anchor="start" x="3259.0" y="826.75" fill="#808080" style="font-size:18px">Control_Reg_Const_Load</text>
+<circle cx="3240.0" cy="820.0" r="2.0" stroke="#0000b2" stroke-width="4.0" fill="#0000b2" />
 </g>
 </g>
 </svg>

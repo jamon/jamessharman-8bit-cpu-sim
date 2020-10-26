@@ -30,6 +30,10 @@
           <string>Label</string>
           <string>Clock</string>
         </entry>
+        <entry>
+          <string>Frequency</string>
+          <int>2147483647</int>
+        </entry>
       </elementAttributes>
       <pos x="1020" y="500"/>
     </visualElement>
@@ -983,16 +987,6 @@
         </entry>
       </elementAttributes>
       <pos x="3240" y="200"/>
-    </visualElement>
-    <visualElement>
-      <elementName>Tunnel</elementName>
-      <elementAttributes>
-        <entry>
-          <string>NetName</string>
-          <string>Control\_Reg\_Const\_Load</string>
-        </entry>
-      </elementAttributes>
-      <pos x="3240" y="220"/>
     </visualElement>
     <visualElement>
       <elementName>Tunnel</elementName>
@@ -3802,6 +3796,16 @@
       </elementAttributes>
       <pos x="840" y="280"/>
     </visualElement>
+    <visualElement>
+      <elementName>Tunnel</elementName>
+      <elementAttributes>
+        <entry>
+          <string>NetName</string>
+          <string>Control\_Reg\_Const\_Load</string>
+        </entry>
+      </elementAttributes>
+      <pos x="3240" y="820"/>
+    </visualElement>
   </visualElements>
   <wires>
     <wire>
@@ -4301,6 +4305,10 @@
       <p2 x="-1040" y="-180"/>
     </wire>
     <wire>
+      <p1 x="3200" y="820"/>
+      <p2 x="3240" y="820"/>
+    </wire>
+    <wire>
       <p1 x="1000" y="820"/>
       <p2 x="1060" y="820"/>
     </wire>
@@ -4671,10 +4679,6 @@
     <wire>
       <p1 x="-320" y="220"/>
       <p2 x="-280" y="220"/>
-    </wire>
-    <wire>
-      <p1 x="3200" y="220"/>
-      <p2 x="3240" y="220"/>
     </wire>
     <wire>
       <p1 x="2760" y="220"/>
