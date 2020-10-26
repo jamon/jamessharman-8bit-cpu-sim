@@ -1390,7 +1390,7 @@ Will likely need to use a higher clock and a &quot;half-clock&quot; signal</stri
       <p2 x="680" y="280"/>
     </wire>
     <wire>
-      <p1 x="880" y="280"/>
+      <p1 x="860" y="280"/>
       <p2 x="1000" y="280"/>
     </wire>
     <wire>
@@ -1663,7 +1663,7 @@ Will likely need to use a higher clock and a &quot;half-clock&quot; signal</stri
     </wire>
     <wire>
       <p1 x="700" y="720"/>
-      <p2 x="880" y="720"/>
+      <p2 x="860" y="720"/>
     </wire>
     <wire>
       <p1 x="320" y="80"/>
@@ -1942,10 +1942,6 @@ Will likely need to use a higher clock and a &quot;half-clock&quot; signal</stri
       <p2 x="240" y="1500"/>
     </wire>
     <wire>
-      <p1 x="880" y="280"/>
-      <p2 x="880" y="720"/>
-    </wire>
-    <wire>
       <p1 x="880" y="1060"/>
       <p2 x="880" y="1500"/>
     </wire>
@@ -2020,6 +2016,10 @@ Will likely need to use a higher clock and a &quot;half-clock&quot; signal</stri
     <wire>
       <p1 x="1020" y="1020"/>
       <p2 x="1020" y="1040"/>
+    </wire>
+    <wire>
+      <p1 x="860" y="280"/>
+      <p2 x="860" y="720"/>
     </wire>
   </wires>
   <measurementOrdering/>
