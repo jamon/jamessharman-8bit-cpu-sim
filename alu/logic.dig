@@ -186,7 +186,7 @@
           <string>RHS</string>
         </entry>
       </elementAttributes>
-      <pos x="420" y="560"/>
+      <pos x="420" y="540"/>
     </visualElement>
     <visualElement>
       <elementName>Tunnel</elementName>
@@ -200,7 +200,7 @@
           <string>LHS</string>
         </entry>
       </elementAttributes>
-      <pos x="420" y="540"/>
+      <pos x="420" y="560"/>
     </visualElement>
     <visualElement>
       <elementName>Tunnel</elementName>
