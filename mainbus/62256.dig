@@ -607,7 +607,7 @@ end loop</dataString>
         </entry>
         <entry>
           <string>Label</string>
-          <string>*</string>
+          <string>ZRAM</string>
         </entry>
         <entry>
           <string>Bits</string>
