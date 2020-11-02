@@ -75,6 +75,9 @@ I very much welcome contributions and forks of this project!  If you'd like to h
 ## Constant Register
 ![Constant Register](https://raw.githubusercontent.com/jamon/jamessharman-8bit-cpu-sim/main/mainbus/reg-constant.svg)
 
+## Transfer Register
+![Transfer Register](https://raw.githubusercontent.com/jamon/jamessharman-8bit-cpu-sim/main/mainbus/reg-16bit-xfer.svg)
+
 ## Memory
 ![Memory](https://raw.githubusercontent.com/jamon/jamessharman-8bit-cpu-sim/main/mainbus/memory.svg)
 
