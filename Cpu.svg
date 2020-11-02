@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Created with Digital by H.Neemann -->
-<!-- created: Mon Oct 26 17:44:10 CDT 2020 -->
+<!-- created: Mon Nov 02 00:31:16 CST 2020 -->
 
 <svg
    xmlns:svg="http://www.w3.org/2000/svg"
@@ -46,6 +46,7 @@
 <path d="M 2400,1360 L 2410,1360" stroke="#000000" stroke-width="4.0" fill="none"/>
 <path d="M 2400,1340 L 2410,1340" stroke="#000000" stroke-width="4.0" fill="none"/>
 <path d="M 2400,1320 L 2410,1320" stroke="#000000" stroke-width="4.0" fill="none"/>
+<path d="M 1012,588 L 1018,594" stroke="#000000" stroke-width="4.0" fill="none"/>
 <path d="M 2760,0 L 2800,0" stroke="#0000b2" stroke-width="4.0" fill="none"/>
 <path d="M -320,0 L -280,0" stroke="#0000b2" stroke-width="4.0" fill="none"/>
 <path d="M -1080,0 L -1040,0" stroke="#0000b2" stroke-width="4.0" fill="none"/>
@@ -62,7 +63,6 @@
 <path d="M -1080,-260 L -1040,-260" stroke="#0000b2" stroke-width="4.0" fill="none"/>
 <path d="M 540,-260 L 580,-260" stroke="#0000b2" stroke-width="4.0" fill="none"/>
 <path d="M 3200,900 L 3240,900" stroke="#0000b2" stroke-width="4.0" fill="none"/>
-<path d="M -320,900 L -280,900" stroke="#0000b2" stroke-width="4.0" fill="none"/>
 <path d="M 3200,260 L 3240,260" stroke="#0000b2" stroke-width="4.0" fill="none"/>
 <path d="M 2200,260 L 2240,260" stroke="#0000b2" stroke-width="4.0" fill="none"/>
 <path d="M -1080,260 L -1040,260" stroke="#0000b2" stroke-width="4.0" fill="none"/>
@@ -75,6 +75,7 @@
 <path d="M -1080,520 L -1040,520" stroke="#0000b2" stroke-width="4.0" fill="none"/>
 <path d="M 3200,520 L 3240,520" stroke="#0000b2" stroke-width="4.0" fill="none"/>
 <path d="M -320,1160 L -280,1160" stroke="#0000b2" stroke-width="4.0" fill="none"/>
+<path d="M -1060,1160 L -1020,1160" stroke="#0000b2" stroke-width="4.0" fill="none"/>
 <path d="M 3200,-140 L 3240,-140" stroke="#0000b2" stroke-width="4.0" fill="none"/>
 <path d="M 2760,-140 L 2800,-140" stroke="#0000b2" stroke-width="4.0" fill="none"/>
 <path d="M 3200,140 L 3240,140" stroke="#0000b2" stroke-width="4.0" fill="none"/>
@@ -89,8 +90,10 @@
 <path d="M -1080,400 L -1040,400" stroke="#0000b2" stroke-width="4.0" fill="none"/>
 <path d="M 20,400 L 60,400" stroke="#0000b2" stroke-width="4.0" fill="none"/>
 <path d="M -320,400 L -280,400" stroke="#0000b2" stroke-width="4.0" fill="none"/>
+<path d="M 700,400 L 740,400" stroke="#0000b2" stroke-width="4.0" fill="none"/>
 <path d="M 1760,1040 L 1800,1040" stroke="#0000b2" stroke-width="4.0" fill="none"/>
 <path d="M 3200,1040 L 3240,1040" stroke="#0000b2" stroke-width="4.0" fill="none"/>
+<path d="M -1060,1040 L -1020,1040" stroke="#0000b2" stroke-width="4.0" fill="none"/>
 <path d="M -320,-20 L -280,-20" stroke="#0000b2" stroke-width="4.0" fill="none"/>
 <path d="M 2760,-20 L 2800,-20" stroke="#0000b2" stroke-width="4.0" fill="none"/>
 <path d="M -1080,-20 L -1040,-20" stroke="#0000b2" stroke-width="4.0" fill="none"/>
@@ -104,6 +107,7 @@
 <path d="M -1080,660 L -1040,660" stroke="#0000b2" stroke-width="4.0" fill="none"/>
 <path d="M 1760,660 L 1800,660" stroke="#0000b2" stroke-width="4.0" fill="none"/>
 <path d="M 2200,660 L 2240,660" stroke="#0000b2" stroke-width="4.0" fill="none"/>
+<path d="M 3200,660 L 3240,660" stroke="#0000b2" stroke-width="4.0" fill="none"/>
 <path d="M -1080,20 L -1040,20" stroke="#0000b2" stroke-width="4.0" fill="none"/>
 <path d="M 2760,20 L 2800,20" stroke="#0000b2" stroke-width="4.0" fill="none"/>
 <path d="M 20,-280 L 60,-280" stroke="#0000b2" stroke-width="4.0" fill="none"/>
@@ -119,8 +123,6 @@
 <path d="M 2200,280 L 2240,280" stroke="#0000b2" stroke-width="4.0" fill="none"/>
 <path d="M 840,280 L 880,280" stroke="#0000b2" stroke-width="4.0" fill="none"/>
 <path d="M 3200,920 L 3240,920" stroke="#0000b2" stroke-width="4.0" fill="none"/>
-<path d="M 20,920 L 60,920" stroke="#0000b2" stroke-width="4.0" fill="none"/>
-<path d="M -320,920 L -280,920" stroke="#0000b2" stroke-width="4.0" fill="none"/>
 <path d="M 1760,1560 L 1800,1560" stroke="#0000b2" stroke-width="4.0" fill="none"/>
 <path d="M 2360,1560 L 2400,1560" stroke="#0000b2" stroke-width="4.0" fill="none"/>
 <path d="M -1080,540 L -1040,540" stroke="#0000b2" stroke-width="4.0" fill="none"/>
@@ -128,11 +130,14 @@
 <path d="M 1760,540 L 1800,540" stroke="#0000b2" stroke-width="4.0" fill="none"/>
 <path d="M 3200,540 L 3240,540" stroke="#0000b2" stroke-width="4.0" fill="none"/>
 <path d="M 1000,1180 L 1060,1180" stroke="#0000b2" stroke-width="4.0" fill="none"/>
+<path d="M -320,1180 L -280,1180" stroke="#0000b2" stroke-width="4.0" fill="none"/>
+<path d="M -1060,1180 L -1020,1180" stroke="#0000b2" stroke-width="4.0" fill="none"/>
 <path d="M 3200,-160 L 3240,-160" stroke="#0000b2" stroke-width="4.0" fill="none"/>
 <path d="M 2760,-160 L 2800,-160" stroke="#0000b2" stroke-width="4.0" fill="none"/>
 <path d="M -1080,-160 L -1040,-160" stroke="#0000b2" stroke-width="4.0" fill="none"/>
 <path d="M -1080,800 L -1040,800" stroke="#0000b2" stroke-width="4.0" fill="none"/>
 <path d="M 2200,800 L 2240,800" stroke="#0000b2" stroke-width="4.0" fill="none"/>
+<path d="M 3200,800 L 3240,800" stroke="#0000b2" stroke-width="4.0" fill="none"/>
 <path d="M -1080,160 L -1040,160" stroke="#0000b2" stroke-width="4.0" fill="none"/>
 <path d="M 20,160 L 60,160" stroke="#0000b2" stroke-width="4.0" fill="none"/>
 <path d="M -320,160 L -280,160" stroke="#0000b2" stroke-width="4.0" fill="none"/>
@@ -142,14 +147,17 @@
 <path d="M 2760,160 L 2800,160" stroke="#0000b2" stroke-width="4.0" fill="none"/>
 <path d="M 1760,1440 L 1800,1440" stroke="#0000b2" stroke-width="4.0" fill="none"/>
 <path d="M 2360,1440 L 2400,1440" stroke="#0000b2" stroke-width="4.0" fill="none"/>
+<path d="M 1040,420 L 1080,420" stroke="#0000b2" stroke-width="4.0" fill="none"/>
 <path d="M -320,420 L -280,420" stroke="#0000b2" stroke-width="4.0" fill="none"/>
 <path d="M 20,420 L 60,420" stroke="#0000b2" stroke-width="4.0" fill="none"/>
 <path d="M -1080,420 L -1040,420" stroke="#0000b2" stroke-width="4.0" fill="none"/>
 <path d="M 3200,420 L 3240,420" stroke="#0000b2" stroke-width="4.0" fill="none"/>
+<path d="M 700,420 L 740,420" stroke="#0000b2" stroke-width="4.0" fill="none"/>
 <path d="M 1760,1060 L 1800,1060" stroke="#0000b2" stroke-width="4.0" fill="none"/>
-<path d="M -320,1060 L -280,1060" stroke="#0000b2" stroke-width="4.0" fill="none"/>
 <path d="M 1000,1060 L 1060,1060" stroke="#0000b2" stroke-width="4.0" fill="none"/>
 <path d="M 620,1060 L 660,1060" stroke="#0000b2" stroke-width="4.0" fill="none"/>
+<path d="M -1060,1060 L -1020,1060" stroke="#0000b2" stroke-width="4.0" fill="none"/>
+<path d="M 3200,1060 L 3240,1060" stroke="#0000b2" stroke-width="4.0" fill="none"/>
 <path d="M 20,-40 L 60,-40" stroke="#0000b2" stroke-width="4.0" fill="none"/>
 <path d="M -320,-40 L -280,-40" stroke="#0000b2" stroke-width="4.0" fill="none"/>
 <path d="M 540,-40 L 580,-40" stroke="#0000b2" stroke-width="4.0" fill="none"/>
@@ -166,6 +174,7 @@
 <path d="M 1760,680 L 1800,680" stroke="#0000b2" stroke-width="4.0" fill="none"/>
 <path d="M 2200,680 L 2240,680" stroke="#0000b2" stroke-width="4.0" fill="none"/>
 <path d="M -740,680 L -720,680 L -720,720 L -700,720" stroke="#0000b2" stroke-width="4.0" fill="none"/>
+<path d="M 3200,680 L 3240,680" stroke="#0000b2" stroke-width="4.0" fill="none"/>
 <path d="M -1080,40 L -1040,40" stroke="#0000b2" stroke-width="4.0" fill="none"/>
 <path d="M 2760,40 L 2800,40" stroke="#0000b2" stroke-width="4.0" fill="none"/>
 <path d="M 1760,1320 L 1800,1320" stroke="#0000b2" stroke-width="4.0" fill="none"/>
@@ -177,17 +186,18 @@
 <path d="M 2760,-300 L 2800,-300" stroke="#0000b2" stroke-width="4.0" fill="none"/>
 <path d="M -1080,-300 L -1040,-300" stroke="#0000b2" stroke-width="4.0" fill="none"/>
 <path d="M 1380,-300 L 1420,-300" stroke="#0000b2" stroke-width="4.0" fill="none"/>
+<path d="M -320,940 L -280,940" stroke="#0000b2" stroke-width="4.0" fill="none"/>
 <path d="M -1080,300 L -1040,300" stroke="#0000b2" stroke-width="4.0" fill="none"/>
 <path d="M 2200,300 L 2240,300" stroke="#0000b2" stroke-width="4.0" fill="none"/>
 <path d="M 1000,300 L 1040,300" stroke="#0000b2" stroke-width="4.0" fill="none"/>
-<path d="M -320,940 L -280,940" stroke="#0000b2" stroke-width="4.0" fill="none"/>
 <path d="M 1760,1580 L 1800,1580" stroke="#0000b2" stroke-width="4.0" fill="none"/>
 <path d="M 2360,1580 L 2400,1580" stroke="#0000b2" stroke-width="4.0" fill="none"/>
+<path d="M -1060,1200 L -1020,1200" stroke="#0000b2" stroke-width="4.0" fill="none"/>
+<path d="M -320,1200 L -280,1200" stroke="#0000b2" stroke-width="4.0" fill="none"/>
 <path d="M -1080,560 L -1040,560" stroke="#0000b2" stroke-width="4.0" fill="none"/>
 <path d="M 1760,560 L 1800,560" stroke="#0000b2" stroke-width="4.0" fill="none"/>
 <path d="M 2200,560 L 2240,560" stroke="#0000b2" stroke-width="4.0" fill="none"/>
 <path d="M 3200,560 L 3240,560" stroke="#0000b2" stroke-width="4.0" fill="none"/>
-<path d="M 1020,560 L 1060,560" stroke="#0000b2" stroke-width="4.0" fill="none"/>
 <path d="M 3200,-180 L 3240,-180" stroke="#0000b2" stroke-width="4.0" fill="none"/>
 <path d="M 2760,-180 L 2800,-180" stroke="#0000b2" stroke-width="4.0" fill="none"/>
 <path d="M -1080,-180 L -1040,-180" stroke="#0000b2" stroke-width="4.0" fill="none"/>
@@ -208,7 +218,7 @@
 <path d="M -1080,440 L -1040,440" stroke="#0000b2" stroke-width="4.0" fill="none"/>
 <path d="M 3200,440 L 3240,440" stroke="#0000b2" stroke-width="4.0" fill="none"/>
 <path d="M -740,440 L -720,440 L -720,480 L -700,480" stroke="#0000b2" stroke-width="4.0" fill="none"/>
-<path d="M -320,1080 L -280,1080" stroke="#0000b2" stroke-width="4.0" fill="none"/>
+<path d="M -1060,1080 L -1020,1080" stroke="#0000b2" stroke-width="4.0" fill="none"/>
 <path d="M -1080,-60 L -1040,-60" stroke="#0000b2" stroke-width="4.0" fill="none"/>
 <path d="M -320,-60 L -280,-60" stroke="#0000b2" stroke-width="4.0" fill="none"/>
 <path d="M 20,-60 L 60,-60" stroke="#0000b2" stroke-width="4.0" fill="none"/>
@@ -237,15 +247,19 @@
 <path d="M 2760,-320 L 2800,-320" stroke="#0000b2" stroke-width="4.0" fill="none"/>
 <path d="M 3200,-320 L 3240,-320" stroke="#0000b2" stroke-width="4.0" fill="none"/>
 <path d="M -1080,-320 L -1040,-320" stroke="#0000b2" stroke-width="4.0" fill="none"/>
+<path d="M 620,960 L 660,960" stroke="#0000b2" stroke-width="4.0" fill="none"/>
+<path d="M 20,960 L 60,960" stroke="#0000b2" stroke-width="4.0" fill="none"/>
+<path d="M -320,960 L -280,960" stroke="#0000b2" stroke-width="4.0" fill="none"/>
+<path d="M 3200,960 L 3240,960" stroke="#0000b2" stroke-width="4.0" fill="none"/>
 <path d="M 1760,1600 L 1800,1600" stroke="#0000b2" stroke-width="4.0" fill="none"/>
 <path d="M 2360,1600 L 2400,1600" stroke="#0000b2" stroke-width="4.0" fill="none"/>
 <path d="M -1080,320 L -1040,320" stroke="#0000b2" stroke-width="4.0" fill="none"/>
 <path d="M 2200,320 L 2240,320" stroke="#0000b2" stroke-width="4.0" fill="none"/>
 <path d="M 1000,320 L 1040,320" stroke="#0000b2" stroke-width="4.0" fill="none"/>
-<path d="M 3200,960 L 3240,960" stroke="#0000b2" stroke-width="4.0" fill="none"/>
 <path d="M 2200,580 L 2240,580" stroke="#0000b2" stroke-width="4.0" fill="none"/>
 <path d="M 1760,580 L 1800,580" stroke="#0000b2" stroke-width="4.0" fill="none"/>
 <path d="M 3200,580 L 3240,580" stroke="#0000b2" stroke-width="4.0" fill="none"/>
+<path d="M 1020,580 L 1060,580" stroke="#0000b2" stroke-width="4.0" fill="none"/>
 <path d="M -1080,-200 L -1040,-200" stroke="#0000b2" stroke-width="4.0" fill="none"/>
 <path d="M 2760,-200 L 2800,-200" stroke="#0000b2" stroke-width="4.0" fill="none"/>
 <path d="M 3200,-200 L 3240,-200" stroke="#0000b2" stroke-width="4.0" fill="none"/>
@@ -264,6 +278,8 @@
 <path d="M 3200,840 L 3240,840" stroke="#0000b2" stroke-width="4.0" fill="none"/>
 <path d="M 2200,840 L 2240,840" stroke="#0000b2" stroke-width="4.0" fill="none"/>
 <path d="M -320,1100 L -280,1100" stroke="#0000b2" stroke-width="4.0" fill="none"/>
+<path d="M -1060,1100 L -1020,1100" stroke="#0000b2" stroke-width="4.0" fill="none"/>
+<path d="M -720,1100 L -700,1100 L -700,1140 L -680,1140" stroke="#0000b2" stroke-width="4.0" fill="none"/>
 <path d="M -320,460 L -280,460" stroke="#0000b2" stroke-width="4.0" fill="none"/>
 <path d="M -1080,460 L -1040,460" stroke="#0000b2" stroke-width="4.0" fill="none"/>
 <path d="M 3200,460 L 3240,460" stroke="#0000b2" stroke-width="4.0" fill="none"/>
@@ -286,14 +302,15 @@
 <path d="M 2760,80 L 2800,80" stroke="#0000b2" stroke-width="4.0" fill="none"/>
 <path d="M 1760,80 L 1800,80" stroke="#0000b2" stroke-width="4.0" fill="none"/>
 <path d="M 2200,80 L 2240,80" stroke="#0000b2" stroke-width="4.0" fill="none"/>
+<path d="M -320,980 L -280,980" stroke="#0000b2" stroke-width="4.0" fill="none"/>
+<path d="M 2200,980 L 2240,980" stroke="#0000b2" stroke-width="4.0" fill="none"/>
+<path d="M 1760,980 L 1800,980" stroke="#0000b2" stroke-width="4.0" fill="none"/>
+<path d="M 3200,980 L 3240,980" stroke="#0000b2" stroke-width="4.0" fill="none"/>
 <path d="M 1760,1620 L 1800,1620" stroke="#0000b2" stroke-width="4.0" fill="none"/>
 <path d="M 1820,1620 L 1880,1620" stroke="#0000b2" stroke-width="4.0" fill="none"/>
 <path d="M 2420,1620 L 2480,1620" stroke="#0000b2" stroke-width="4.0" fill="none"/>
 <path d="M 2360,1620 L 2400,1620" stroke="#0000b2" stroke-width="4.0" fill="none"/>
 <path d="M 2200,340 L 2240,340" stroke="#0000b2" stroke-width="4.0" fill="none"/>
-<path d="M 2200,980 L 2240,980" stroke="#0000b2" stroke-width="4.0" fill="none"/>
-<path d="M 1760,980 L 1800,980" stroke="#0000b2" stroke-width="4.0" fill="none"/>
-<path d="M 3200,980 L 3240,980" stroke="#0000b2" stroke-width="4.0" fill="none"/>
 <path d="M 2200,600 L 2240,600" stroke="#0000b2" stroke-width="4.0" fill="none"/>
 <path d="M 1760,600 L 1800,600" stroke="#0000b2" stroke-width="4.0" fill="none"/>
 <path d="M 3200,600 L 3240,600" stroke="#0000b2" stroke-width="4.0" fill="none"/>
@@ -312,11 +329,12 @@
 <path d="M 2200,220 L 2240,220" stroke="#0000b2" stroke-width="4.0" fill="none"/>
 <path d="M 20,220 L 40,220 L 40,260 L 60,260" stroke="#0000b2" stroke-width="4.0" fill="none"/>
 <path d="M 3200,860 L 3240,860" stroke="#0000b2" stroke-width="4.0" fill="none"/>
+<path d="M -320,1120 L -280,1120" stroke="#0000b2" stroke-width="4.0" fill="none"/>
+<path d="M 1000,1120 L 1060,1120" stroke="#0000b2" stroke-width="4.0" fill="none"/>
+<path d="M -1060,1120 L -1020,1120" stroke="#0000b2" stroke-width="4.0" fill="none"/>
 <path d="M -320,480 L -280,480" stroke="#0000b2" stroke-width="4.0" fill="none"/>
 <path d="M -1080,480 L -1040,480" stroke="#0000b2" stroke-width="4.0" fill="none"/>
 <path d="M 3200,480 L 3240,480" stroke="#0000b2" stroke-width="4.0" fill="none"/>
-<path d="M -320,1120 L -280,1120" stroke="#0000b2" stroke-width="4.0" fill="none"/>
-<path d="M 1000,1120 L 1060,1120" stroke="#0000b2" stroke-width="4.0" fill="none"/>
 <path d="M 2760,-100 L 2800,-100" stroke="#0000b2" stroke-width="4.0" fill="none"/>
 <path d="M 3200,-100 L 3240,-100" stroke="#0000b2" stroke-width="4.0" fill="none"/>
 <path d="M 780,-100 L 820,-100" stroke="#0000b2" stroke-width="4.0" fill="none"/>
@@ -334,6 +352,7 @@
 <path d="M 2200,1000 L 2240,1000" stroke="#0000b2" stroke-width="4.0" fill="none"/>
 <path d="M 1760,1000 L 1800,1000" stroke="#0000b2" stroke-width="4.0" fill="none"/>
 <path d="M 3200,1000 L 3240,1000" stroke="#0000b2" stroke-width="4.0" fill="none"/>
+<path d="M -1060,1000 L -1020,1000" stroke="#0000b2" stroke-width="4.0" fill="none"/>
 <path d="M 2200,360 L 2240,360" stroke="#0000b2" stroke-width="4.0" fill="none"/>
 <path d="M 1760,620 L 1800,620" stroke="#0000b2" stroke-width="4.0" fill="none"/>
 <path d="M 3200,620 L 3240,620" stroke="#0000b2" stroke-width="4.0" fill="none"/>
@@ -353,10 +372,11 @@
 <path d="M 3200,880 L 3240,880" stroke="#0000b2" stroke-width="4.0" fill="none"/>
 <path d="M 1760,1520 L 1800,1520" stroke="#0000b2" stroke-width="4.0" fill="none"/>
 <path d="M 2360,1520 L 2400,1520" stroke="#0000b2" stroke-width="4.0" fill="none"/>
+<path d="M -1060,1140 L -1020,1140" stroke="#0000b2" stroke-width="4.0" fill="none"/>
+<path d="M -320,1140 L -280,1140" stroke="#0000b2" stroke-width="4.0" fill="none"/>
 <path d="M 1020,500 L 1060,500" stroke="#0000b2" stroke-width="4.0" fill="none"/>
 <path d="M -1080,500 L -1040,500" stroke="#0000b2" stroke-width="4.0" fill="none"/>
 <path d="M 3200,500 L 3240,500" stroke="#0000b2" stroke-width="4.0" fill="none"/>
-<path d="M -320,1140 L -280,1140" stroke="#0000b2" stroke-width="4.0" fill="none"/>
 <path d="M 2760,-120 L 2800,-120" stroke="#0000b2" stroke-width="4.0" fill="none"/>
 <path d="M 3200,-120 L 3240,-120" stroke="#0000b2" stroke-width="4.0" fill="none"/>
 <path d="M 1760,1400 L 1800,1400" stroke="#0000b2" stroke-width="4.0" fill="none"/>
@@ -373,6 +393,7 @@
 <path d="M 3200,1020 L 3240,1020" stroke="#0000b2" stroke-width="4.0" fill="none"/>
 <path d="M 2200,1020 L 2240,1020" stroke="#0000b2" stroke-width="4.0" fill="none"/>
 <path d="M 1760,1020 L 1800,1020" stroke="#0000b2" stroke-width="4.0" fill="none"/>
+<path d="M -1060,1020 L -1020,1020" stroke="#0000b2" stroke-width="4.0" fill="none"/>
 <path d="M 1160,-80 L 1160,-60 L 1040,-60 L 1040,60 L 1420,60" stroke="#0000b2" stroke-width="4.0" fill="none"/>
 <g>
 <circle cx="1400.0" cy="-60.0" r="4.0" stroke="#0000b2" stroke-width="4.0" fill="#0000b2" />
@@ -1738,17 +1759,6 @@
 <circle cx="3240.0" cy="440.0" r="2.0" stroke="#0000b2" stroke-width="4.0" fill="#0000b2" />
 </g>
 <g>
-<path d="M 1060,560 L 1074,568 L 1074,552 Z" stroke="#000000" stroke-width="4.0" fill="none"/>
-<text text-anchor="start" x="1079.0" y="566.75" fill="#808080" style="font-size:18px">Flags_6_Reset</text>
-<circle cx="1060.0" cy="560.0" r="2.0" stroke="#0000b2" stroke-width="4.0" fill="#0000b2" />
-</g>
-<g>
-<path d="M 989,545 L 1019,545 L 1019,575 L 989,575 Z" stroke="#000000" stroke-width="4.0" fill="none"/>
-<circle cx="1004.0" cy="560.0" r="9.0" stroke="#000000" stroke-width="4.0" fill="none" />
-<text text-anchor="end" x="975.0" y="569.0" fill="#000000" style="font-size:24px"><tspan style="font-style:italic;">ResetIn</tspan></text>
-<circle cx="1020.0" cy="560.0" r="2.0" stroke="#b20000" stroke-width="4.0" fill="#b20000" />
-</g>
-<g>
 <path d="M 2760,-300 L 2746,-308 L 2746,-292 Z" stroke="#000000" stroke-width="4.0" fill="none"/>
 <text text-anchor="end" x="2741.0" y="-293.25" fill="#808080" style="font-size:18px">Flags_6_Reset</text>
 <circle cx="2760.0" cy="-300.0" r="2.0" stroke="#0000b2" stroke-width="4.0" fill="#0000b2" />
@@ -2259,51 +2269,51 @@
 <circle cx="3240.0" cy="920.0" r="2.0" stroke="#0000b2" stroke-width="4.0" fill="#0000b2" />
 </g>
 <g>
-<path d="M -279,1046 L 19,1046 L 19,1174 L -279,1174 Z" stroke="#ffffb4" stroke-width="0.0" fill="#ffffb4" fill-opacity="0.7843137254901961"/>
-<path d="M -279,1046 L 19,1046 L 19,1174 L -279,1174 Z" stroke="#000000" stroke-width="4.0" fill="none"/>
-<text text-anchor="start" x="-276.0" y="1066.75" fill="#808080" style="font-size:18px">Addr</text>
-<text text-anchor="start" x="-276.0" y="1086.75" fill="#808080" style="font-size:18px">MainBus</text>
-<text text-anchor="start" x="-276.0" y="1106.75" fill="#808080" style="font-size:18px">MEMDATA</text>
-<text text-anchor="start" x="-276.0" y="1126.75" fill="#808080" style="font-size:18px">MemBridge_Direction</text>
-<text text-anchor="start" x="-276.0" y="1146.75" fill="#808080" style="font-size:18px">MemBridge_Load</text>
-<text text-anchor="start" x="-276.0" y="1166.75" fill="#808080" style="font-size:18px">MemBridge_Assert</text>
-<text text-anchor="middle" x="-130.0" y="1191.5" fill="#808080" style="font-size:18px">memory</text>
-<circle cx="-280.0" cy="1060.0" r="2.0" stroke="#0000b2" stroke-width="4.0" fill="#0000b2" />
-<circle cx="-280.0" cy="1080.0" r="2.0" stroke="#0000b2" stroke-width="4.0" fill="#0000b2" />
+<path d="M -279,1086 L 19,1086 L 19,1214 L -279,1214 Z" stroke="#ffffb4" stroke-width="0.0" fill="#ffffb4" fill-opacity="0.7843137254901961"/>
+<path d="M -279,1086 L 19,1086 L 19,1214 L -279,1214 Z" stroke="#000000" stroke-width="4.0" fill="none"/>
+<text text-anchor="start" x="-276.0" y="1106.75" fill="#808080" style="font-size:18px">Addr</text>
+<text text-anchor="start" x="-276.0" y="1126.75" fill="#808080" style="font-size:18px">MainBus</text>
+<text text-anchor="start" x="-276.0" y="1146.75" fill="#808080" style="font-size:18px">MEMDATA</text>
+<text text-anchor="start" x="-276.0" y="1166.75" fill="#808080" style="font-size:18px">MemBridge_Direction</text>
+<text text-anchor="start" x="-276.0" y="1186.75" fill="#808080" style="font-size:18px">MemBridge_Load</text>
+<text text-anchor="start" x="-276.0" y="1206.75" fill="#808080" style="font-size:18px">MemBridge_Assert</text>
+<text text-anchor="middle" x="-130.0" y="1231.5" fill="#808080" style="font-size:18px">memory</text>
 <circle cx="-280.0" cy="1100.0" r="2.0" stroke="#0000b2" stroke-width="4.0" fill="#0000b2" />
 <circle cx="-280.0" cy="1120.0" r="2.0" stroke="#0000b2" stroke-width="4.0" fill="#0000b2" />
 <circle cx="-280.0" cy="1140.0" r="2.0" stroke="#0000b2" stroke-width="4.0" fill="#0000b2" />
 <circle cx="-280.0" cy="1160.0" r="2.0" stroke="#0000b2" stroke-width="4.0" fill="#0000b2" />
-</g>
-<g>
-<path d="M -320,1100 L -334,1092 L -334,1108 Z" stroke="#000000" stroke-width="4.0" fill="none"/>
-<text text-anchor="end" x="-339.0" y="1106.75" fill="#808080" style="font-size:18px">BUS_Memory</text>
-<circle cx="-320.0" cy="1100.0" r="2.0" stroke="#0000b2" stroke-width="4.0" fill="#0000b2" />
-</g>
-<g>
-<path d="M -320,1060 L -334,1052 L -334,1068 Z" stroke="#000000" stroke-width="4.0" fill="none"/>
-<text text-anchor="end" x="-339.0" y="1066.75" fill="#808080" style="font-size:18px">BUS_Addr</text>
-<circle cx="-320.0" cy="1060.0" r="2.0" stroke="#0000b2" stroke-width="4.0" fill="#0000b2" />
+<circle cx="-280.0" cy="1180.0" r="2.0" stroke="#0000b2" stroke-width="4.0" fill="#0000b2" />
+<circle cx="-280.0" cy="1200.0" r="2.0" stroke="#0000b2" stroke-width="4.0" fill="#0000b2" />
 </g>
 <g>
 <path d="M -320,1140 L -334,1132 L -334,1148 Z" stroke="#000000" stroke-width="4.0" fill="none"/>
-<text text-anchor="end" x="-339.0" y="1146.75" fill="#808080" style="font-size:18px">Control_MemBridge_Load</text>
+<text text-anchor="end" x="-339.0" y="1146.75" fill="#808080" style="font-size:18px">BUS_Memory</text>
 <circle cx="-320.0" cy="1140.0" r="2.0" stroke="#0000b2" stroke-width="4.0" fill="#0000b2" />
 </g>
 <g>
-<path d="M -320,1120 L -334,1112 L -334,1128 Z" stroke="#000000" stroke-width="4.0" fill="none"/>
-<text text-anchor="end" x="-339.0" y="1126.75" fill="#808080" style="font-size:18px">Control_MemBridge_Direction</text>
-<circle cx="-320.0" cy="1120.0" r="2.0" stroke="#0000b2" stroke-width="4.0" fill="#0000b2" />
+<path d="M -320,1100 L -334,1092 L -334,1108 Z" stroke="#000000" stroke-width="4.0" fill="none"/>
+<text text-anchor="end" x="-339.0" y="1106.75" fill="#808080" style="font-size:18px">BUS_Addr</text>
+<circle cx="-320.0" cy="1100.0" r="2.0" stroke="#0000b2" stroke-width="4.0" fill="#0000b2" />
 </g>
 <g>
-<path d="M -320,1080 L -334,1072 L -334,1088 Z" stroke="#000000" stroke-width="4.0" fill="none"/>
-<text text-anchor="end" x="-339.0" y="1086.75" fill="#808080" style="font-size:18px">Bus_Main</text>
-<circle cx="-320.0" cy="1080.0" r="2.0" stroke="#0000b2" stroke-width="4.0" fill="#0000b2" />
+<path d="M -320,1180 L -334,1172 L -334,1188 Z" stroke="#000000" stroke-width="4.0" fill="none"/>
+<text text-anchor="end" x="-339.0" y="1186.75" fill="#808080" style="font-size:18px">Control_MemBridge_Load</text>
+<circle cx="-320.0" cy="1180.0" r="2.0" stroke="#0000b2" stroke-width="4.0" fill="#0000b2" />
 </g>
 <g>
 <path d="M -320,1160 L -334,1152 L -334,1168 Z" stroke="#000000" stroke-width="4.0" fill="none"/>
-<text text-anchor="end" x="-339.0" y="1166.75" fill="#808080" style="font-size:18px">Control_MemBridge_Assert</text>
+<text text-anchor="end" x="-339.0" y="1166.75" fill="#808080" style="font-size:18px">Control_MemBridge_Direction</text>
 <circle cx="-320.0" cy="1160.0" r="2.0" stroke="#0000b2" stroke-width="4.0" fill="#0000b2" />
+</g>
+<g>
+<path d="M -320,1120 L -334,1112 L -334,1128 Z" stroke="#000000" stroke-width="4.0" fill="none"/>
+<text text-anchor="end" x="-339.0" y="1126.75" fill="#808080" style="font-size:18px">Bus_Main</text>
+<circle cx="-320.0" cy="1120.0" r="2.0" stroke="#0000b2" stroke-width="4.0" fill="#0000b2" />
+</g>
+<g>
+<path d="M -320,1200 L -334,1192 L -334,1208 Z" stroke="#000000" stroke-width="4.0" fill="none"/>
+<text text-anchor="end" x="-339.0" y="1206.75" fill="#808080" style="font-size:18px">Control_MemBridge_Assert</text>
+<circle cx="-320.0" cy="1200.0" r="2.0" stroke="#0000b2" stroke-width="4.0" fill="#0000b2" />
 </g>
 <g>
 <path d="M 3240,120 L 3254,128 L 3254,112 Z" stroke="#000000" stroke-width="4.0" fill="none"/>
@@ -2311,37 +2321,37 @@
 <circle cx="3240.0" cy="120.0" r="2.0" stroke="#0000b2" stroke-width="4.0" fill="#0000b2" />
 </g>
 <g>
-<path d="M -279,886 L 19,886 L 19,954 L -279,954 Z" stroke="#ffcccc" stroke-width="0.0" fill="#ffcccc" fill-opacity="1.0"/>
-<path d="M -279,886 L 19,886 L 19,954 L -279,954 Z" stroke="#000000" stroke-width="4.0" fill="none"/>
-<text text-anchor="start" x="-276.0" y="906.75" fill="#808080" style="font-size:18px">MEMDATAIn</text>
-<text text-anchor="start" x="-276.0" y="926.75" fill="#808080" style="font-size:18px">Reg_Assert</text>
-<text text-anchor="start" x="-276.0" y="946.75" fill="#808080" style="font-size:18px">Reg_Load</text>
-<text text-anchor="end" x="16.0" y="926.75" fill="#808080" style="font-size:18px">MainBusOut</text>
-<text text-anchor="middle" x="-130.0" y="971.5" fill="#808080" style="font-size:18px">reg-constant</text>
-<circle cx="-280.0" cy="900.0" r="2.0" stroke="#0000b2" stroke-width="4.0" fill="#0000b2" />
-<circle cx="-280.0" cy="920.0" r="2.0" stroke="#0000b2" stroke-width="4.0" fill="#0000b2" />
+<path d="M -279,926 L 19,926 L 19,994 L -279,994 Z" stroke="#ffcccc" stroke-width="0.0" fill="#ffcccc" fill-opacity="1.0"/>
+<path d="M -279,926 L 19,926 L 19,994 L -279,994 Z" stroke="#000000" stroke-width="4.0" fill="none"/>
+<text text-anchor="start" x="-276.0" y="946.75" fill="#808080" style="font-size:18px">MEMDATAIn</text>
+<text text-anchor="start" x="-276.0" y="966.75" fill="#808080" style="font-size:18px">Reg_Assert</text>
+<text text-anchor="start" x="-276.0" y="986.75" fill="#808080" style="font-size:18px">Reg_Load</text>
+<text text-anchor="end" x="16.0" y="966.75" fill="#808080" style="font-size:18px">MainBusOut</text>
+<text text-anchor="middle" x="-130.0" y="1011.5" fill="#808080" style="font-size:18px">reg-constant</text>
 <circle cx="-280.0" cy="940.0" r="2.0" stroke="#0000b2" stroke-width="4.0" fill="#0000b2" />
-<circle cx="20.0" cy="920.0" r="2.0" stroke="#b20000" stroke-width="4.0" fill="#b20000" />
-</g>
-<g>
-<path d="M -320,900 L -334,892 L -334,908 Z" stroke="#000000" stroke-width="4.0" fill="none"/>
-<text text-anchor="end" x="-339.0" y="906.75" fill="#808080" style="font-size:18px">BUS_Memory</text>
-<circle cx="-320.0" cy="900.0" r="2.0" stroke="#0000b2" stroke-width="4.0" fill="#0000b2" />
-</g>
-<g>
-<path d="M 60,920 L 74,928 L 74,912 Z" stroke="#000000" stroke-width="4.0" fill="none"/>
-<text text-anchor="start" x="79.0" y="926.75" fill="#808080" style="font-size:18px">Bus_Main</text>
-<circle cx="60.0" cy="920.0" r="2.0" stroke="#0000b2" stroke-width="4.0" fill="#0000b2" />
-</g>
-<g>
-<path d="M -320,920 L -334,912 L -334,928 Z" stroke="#000000" stroke-width="4.0" fill="none"/>
-<text text-anchor="end" x="-339.0" y="926.75" fill="#808080" style="font-size:18px">Control_Reg_Const_Assert</text>
-<circle cx="-320.0" cy="920.0" r="2.0" stroke="#0000b2" stroke-width="4.0" fill="#0000b2" />
+<circle cx="-280.0" cy="960.0" r="2.0" stroke="#0000b2" stroke-width="4.0" fill="#0000b2" />
+<circle cx="-280.0" cy="980.0" r="2.0" stroke="#0000b2" stroke-width="4.0" fill="#0000b2" />
+<circle cx="20.0" cy="960.0" r="2.0" stroke="#b20000" stroke-width="4.0" fill="#b20000" />
 </g>
 <g>
 <path d="M -320,940 L -334,932 L -334,948 Z" stroke="#000000" stroke-width="4.0" fill="none"/>
-<text text-anchor="end" x="-339.0" y="946.75" fill="#808080" style="font-size:18px">Control_Reg_Const_Load</text>
+<text text-anchor="end" x="-339.0" y="946.75" fill="#808080" style="font-size:18px">BUS_Memory</text>
 <circle cx="-320.0" cy="940.0" r="2.0" stroke="#0000b2" stroke-width="4.0" fill="#0000b2" />
+</g>
+<g>
+<path d="M 60,960 L 74,968 L 74,952 Z" stroke="#000000" stroke-width="4.0" fill="none"/>
+<text text-anchor="start" x="79.0" y="966.75" fill="#808080" style="font-size:18px">Bus_Main</text>
+<circle cx="60.0" cy="960.0" r="2.0" stroke="#0000b2" stroke-width="4.0" fill="#0000b2" />
+</g>
+<g>
+<path d="M -320,960 L -334,952 L -334,968 Z" stroke="#000000" stroke-width="4.0" fill="none"/>
+<text text-anchor="end" x="-339.0" y="966.75" fill="#808080" style="font-size:18px">Control_Reg_Const_Assert</text>
+<circle cx="-320.0" cy="960.0" r="2.0" stroke="#0000b2" stroke-width="4.0" fill="#0000b2" />
+</g>
+<g>
+<path d="M -320,980 L -334,972 L -334,988 Z" stroke="#000000" stroke-width="4.0" fill="none"/>
+<text text-anchor="end" x="-339.0" y="986.75" fill="#808080" style="font-size:18px">Control_Reg_Const_Load</text>
+<circle cx="-320.0" cy="980.0" r="2.0" stroke="#0000b2" stroke-width="4.0" fill="#0000b2" />
 </g>
 <g>
 <path d="M 1181,-114 L 1379,-114 L 1379,-6 L 1181,-6 Z" stroke="#ccffcc" stroke-width="0.0" fill="#ccffcc" fill-opacity="1.0"/>
@@ -2908,6 +2918,166 @@
 <text text-anchor="start" x="-698.0" y="716.0" fill="#000000" style="font-size:24px">Register_DI</text>
 <text text-anchor="start" x="-698.0" y="742.0" fill="#000000" style="font-size:24px">?</text>
 <circle cx="-700.0" cy="720.0" r="2.0" stroke="#0000b2" stroke-width="4.0" fill="#0000b2" />
+</g>
+<g>
+<path d="M 741,386 L 1039,386 L 1039,434 L 741,434 Z" stroke="#ffffb4" stroke-width="0.0" fill="#ffffb4" fill-opacity="0.7843137254901961"/>
+<path d="M 741,386 L 1039,386 L 1039,434 L 741,434 Z" stroke="#000000" stroke-width="4.0" fill="none"/>
+<path d="M 741,407 L 748,400 L 741,393" stroke="#000000" stroke-width="2.0" fill="none"/>
+<text text-anchor="start" x="751.0" y="406.75" fill="#808080" style="font-size:18px">ClockIn</text>
+<text text-anchor="start" x="744.0" y="426.75" fill="#808080" style="font-size:18px">ResetIn</text>
+<text text-anchor="end" x="1036.0" y="406.75" fill="#808080" style="font-size:18px">ResetOut</text>
+<text text-anchor="end" x="1036.0" y="426.75" fill="#808080" style="font-size:18px"><tspan style="text-decoration:overline;">ResetOut</tspan></text>
+<text text-anchor="middle" x="890.0" y="451.5" fill="#808080" style="font-size:18px">clock_reset</text>
+<circle cx="740.0" cy="400.0" r="2.0" stroke="#0000b2" stroke-width="4.0" fill="#0000b2" />
+<circle cx="740.0" cy="420.0" r="2.0" stroke="#0000b2" stroke-width="4.0" fill="#0000b2" />
+<circle cx="1040.0" cy="400.0" r="2.0" stroke="#b20000" stroke-width="4.0" fill="#b20000" />
+<circle cx="1040.0" cy="420.0" r="2.0" stroke="#b20000" stroke-width="4.0" fill="#b20000" />
+</g>
+<g>
+<path d="M 700,400 L 686,392 L 686,408 Z" stroke="#000000" stroke-width="4.0" fill="none"/>
+<text text-anchor="end" x="681.0" y="406.75" fill="#808080" style="font-size:18px">Clock</text>
+<circle cx="700.0" cy="400.0" r="2.0" stroke="#0000b2" stroke-width="4.0" fill="#0000b2" />
+</g>
+<g>
+<path d="M 1080,420 L 1094,428 L 1094,412 Z" stroke="#000000" stroke-width="4.0" fill="none"/>
+<text text-anchor="start" x="1099.0" y="426.75" fill="#808080" style="font-size:18px">Flags_6_Reset</text>
+<circle cx="1080.0" cy="420.0" r="2.0" stroke="#0000b2" stroke-width="4.0" fill="#0000b2" />
+</g>
+<g>
+<path d="M 1060,580 L 1074,588 L 1074,572 Z" stroke="#000000" stroke-width="4.0" fill="none"/>
+<text text-anchor="start" x="1079.0" y="586.75" fill="#808080" style="font-size:18px">ResetIn</text>
+<circle cx="1060.0" cy="580.0" r="2.0" stroke="#0000b2" stroke-width="4.0" fill="#0000b2" />
+</g>
+<g>
+<path d="M 700,420 L 686,412 L 686,428 Z" stroke="#000000" stroke-width="4.0" fill="none"/>
+<text text-anchor="end" x="681.0" y="426.75" fill="#808080" style="font-size:18px">ResetIn</text>
+<circle cx="700.0" cy="420.0" r="2.0" stroke="#0000b2" stroke-width="4.0" fill="#0000b2" />
+</g>
+<g>
+<path d="M 982,558 L 1012,558 L 1019,565 L 1019,595 L 989,595 L 982,588 Z" stroke="#000000" stroke-width="4.0" fill="none"/>
+<path d="M 1012,559 L 1012,588 L 983,588" stroke="#000000" stroke-width="4.0" fill="none"/>
+<text text-anchor="end" x="975.0" y="585.0" fill="#000000" style="font-size:24px">Reset</text>
+<circle cx="1020.0" cy="580.0" r="2.0" stroke="#b20000" stroke-width="4.0" fill="#b20000" />
+</g>
+<g>
+<path d="M -1019,986 L -721,986 L -721,1214 L -1019,1214 Z" stroke="#ffffb4" stroke-width="0.0" fill="#ffffb4" fill-opacity="0.7843137254901961"/>
+<path d="M -1019,986 L -721,986 L -721,1214 L -1019,1214 Z" stroke="#000000" stroke-width="4.0" fill="none"/>
+<path d="M -1019,1007 L -1012,1000 L -1019,993" stroke="#000000" stroke-width="2.0" fill="none"/>
+<text text-anchor="start" x="-1009.0" y="1006.75" fill="#808080" style="font-size:18px">Clock</text>
+<text text-anchor="start" x="-1016.0" y="1026.75" fill="#808080" style="font-size:18px">Bus_Main</text>
+<text text-anchor="start" x="-1016.0" y="1046.75" fill="#808080" style="font-size:18px">Bus_Xfer</text>
+<text text-anchor="start" x="-1016.0" y="1066.75" fill="#808080" style="font-size:18px">Bus_Addr</text>
+<text text-anchor="start" x="-1016.0" y="1086.75" fill="#808080" style="font-size:18px"><tspan style="text-decoration:overline;">AssertMainBusLow</tspan></text>
+<text text-anchor="start" x="-1016.0" y="1106.75" fill="#808080" style="font-size:18px"><tspan style="text-decoration:overline;">AssertMainBusHigh</tspan></text>
+<text text-anchor="start" x="-1016.0" y="1126.75" fill="#808080" style="font-size:18px"><tspan style="text-decoration:overline;">AssertXferBus</tspan></text>
+<text text-anchor="start" x="-1016.0" y="1146.75" fill="#808080" style="font-size:18px"><tspan style="text-decoration:overline;">AssertAddrBus</tspan></text>
+<text text-anchor="start" x="-1016.0" y="1166.75" fill="#808080" style="font-size:18px"><tspan style="text-decoration:overline;">LoadMainBusLow</tspan></text>
+<text text-anchor="start" x="-1016.0" y="1186.75" fill="#808080" style="font-size:18px"><tspan style="text-decoration:overline;">LoadMainBusHigh</tspan></text>
+<text text-anchor="start" x="-1016.0" y="1206.75" fill="#808080" style="font-size:18px"><tspan style="text-decoration:overline;">LoadXferBus</tspan></text>
+<text text-anchor="end" x="-724.0" y="1106.75" fill="#808080" style="font-size:18px">Register_Value</text>
+<text text-anchor="middle" x="-870.0" y="1231.5" fill="#808080" style="font-size:18px">reg-16bit-xfer</text>
+<circle cx="-1020.0" cy="1000.0" r="2.0" stroke="#0000b2" stroke-width="4.0" fill="#0000b2" />
+<circle cx="-1020.0" cy="1020.0" r="2.0" stroke="#0000b2" stroke-width="4.0" fill="#0000b2" />
+<circle cx="-1020.0" cy="1040.0" r="2.0" stroke="#0000b2" stroke-width="4.0" fill="#0000b2" />
+<circle cx="-1020.0" cy="1060.0" r="2.0" stroke="#0000b2" stroke-width="4.0" fill="#0000b2" />
+<circle cx="-1020.0" cy="1080.0" r="2.0" stroke="#0000b2" stroke-width="4.0" fill="#0000b2" />
+<circle cx="-1020.0" cy="1100.0" r="2.0" stroke="#0000b2" stroke-width="4.0" fill="#0000b2" />
+<circle cx="-1020.0" cy="1120.0" r="2.0" stroke="#0000b2" stroke-width="4.0" fill="#0000b2" />
+<circle cx="-1020.0" cy="1140.0" r="2.0" stroke="#0000b2" stroke-width="4.0" fill="#0000b2" />
+<circle cx="-1020.0" cy="1160.0" r="2.0" stroke="#0000b2" stroke-width="4.0" fill="#0000b2" />
+<circle cx="-1020.0" cy="1180.0" r="2.0" stroke="#0000b2" stroke-width="4.0" fill="#0000b2" />
+<circle cx="-1020.0" cy="1200.0" r="2.0" stroke="#0000b2" stroke-width="4.0" fill="#0000b2" />
+<circle cx="-720.0" cy="1100.0" r="2.0" stroke="#b20000" stroke-width="4.0" fill="#b20000" />
+</g>
+<g>
+<path d="M -1060,1000 L -1074,992 L -1074,1008 Z" stroke="#000000" stroke-width="4.0" fill="none"/>
+<text text-anchor="end" x="-1079.0" y="1006.75" fill="#808080" style="font-size:18px">Clock</text>
+<circle cx="-1060.0" cy="1000.0" r="2.0" stroke="#0000b2" stroke-width="4.0" fill="#0000b2" />
+</g>
+<g>
+<path d="M -1060,1020 L -1074,1012 L -1074,1028 Z" stroke="#000000" stroke-width="4.0" fill="none"/>
+<text text-anchor="end" x="-1079.0" y="1026.75" fill="#808080" style="font-size:18px">Bus_Main</text>
+<circle cx="-1060.0" cy="1020.0" r="2.0" stroke="#0000b2" stroke-width="4.0" fill="#0000b2" />
+</g>
+<g>
+<path d="M -1060,1040 L -1074,1032 L -1074,1048 Z" stroke="#000000" stroke-width="4.0" fill="none"/>
+<text text-anchor="end" x="-1079.0" y="1046.75" fill="#808080" style="font-size:18px">BUS_Xfer</text>
+<circle cx="-1060.0" cy="1040.0" r="2.0" stroke="#0000b2" stroke-width="4.0" fill="#0000b2" />
+</g>
+<g>
+<path d="M -1060,1060 L -1074,1052 L -1074,1068 Z" stroke="#000000" stroke-width="4.0" fill="none"/>
+<text text-anchor="end" x="-1079.0" y="1066.75" fill="#808080" style="font-size:18px">BUS_Addr</text>
+<circle cx="-1060.0" cy="1060.0" r="2.0" stroke="#0000b2" stroke-width="4.0" fill="#0000b2" />
+</g>
+<g>
+<path d="M 3240,660 L 3254,668 L 3254,652 Z" stroke="#000000" stroke-width="4.0" fill="none"/>
+<text text-anchor="start" x="3259.0" y="666.75" fill="#808080" style="font-size:18px">Control_TX_AssertXfer</text>
+<circle cx="3240.0" cy="660.0" r="2.0" stroke="#0000b2" stroke-width="4.0" fill="#0000b2" />
+</g>
+<g>
+<path d="M 3240,1060 L 3254,1068 L 3254,1052 Z" stroke="#000000" stroke-width="4.0" fill="none"/>
+<text text-anchor="start" x="3259.0" y="1066.75" fill="#808080" style="font-size:18px">Control_TX_AssertAddr</text>
+<circle cx="3240.0" cy="1060.0" r="2.0" stroke="#0000b2" stroke-width="4.0" fill="#0000b2" />
+</g>
+<g>
+<path d="M 3240,800 L 3254,808 L 3254,792 Z" stroke="#000000" stroke-width="4.0" fill="none"/>
+<text text-anchor="start" x="3259.0" y="806.75" fill="#808080" style="font-size:18px">Control_TX_LoadXfer</text>
+<circle cx="3240.0" cy="800.0" r="2.0" stroke="#0000b2" stroke-width="4.0" fill="#0000b2" />
+</g>
+<g>
+<path d="M 3240,680 L 3254,688 L 3254,672 Z" stroke="#000000" stroke-width="4.0" fill="none"/>
+<text text-anchor="start" x="3259.0" y="686.75" fill="#808080" style="font-size:18px">Control_TX_AssertMode</text>
+<circle cx="3240.0" cy="680.0" r="2.0" stroke="#0000b2" stroke-width="4.0" fill="#0000b2" />
+</g>
+<g>
+<path d="M -1060,1200 L -1074,1192 L -1074,1208 Z" stroke="#000000" stroke-width="4.0" fill="none"/>
+<text text-anchor="end" x="-1079.0" y="1206.75" fill="#808080" style="font-size:18px">Control_TX_LoadXfer</text>
+<circle cx="-1060.0" cy="1200.0" r="2.0" stroke="#0000b2" stroke-width="4.0" fill="#0000b2" />
+</g>
+<g>
+<path d="M -1060,1140 L -1074,1132 L -1074,1148 Z" stroke="#000000" stroke-width="4.0" fill="none"/>
+<text text-anchor="end" x="-1079.0" y="1146.75" fill="#808080" style="font-size:18px">Control_TX_AssertAddr</text>
+<circle cx="-1060.0" cy="1140.0" r="2.0" stroke="#0000b2" stroke-width="4.0" fill="#0000b2" />
+</g>
+<g>
+<path d="M -1060,1120 L -1074,1112 L -1074,1128 Z" stroke="#000000" stroke-width="4.0" fill="none"/>
+<text text-anchor="end" x="-1079.0" y="1126.75" fill="#808080" style="font-size:18px">Control_TX_AssertXfer</text>
+<circle cx="-1060.0" cy="1120.0" r="2.0" stroke="#0000b2" stroke-width="4.0" fill="#0000b2" />
+</g>
+<g>
+<path d="M -1060,1080 L -1074,1072 L -1074,1088 Z" stroke="#000000" stroke-width="4.0" fill="none"/>
+<text text-anchor="end" x="-1079.0" y="1086.75" fill="#808080" style="font-size:18px">Control_Reg_TL_Assert</text>
+<circle cx="-1060.0" cy="1080.0" r="2.0" stroke="#0000b2" stroke-width="4.0" fill="#0000b2" />
+</g>
+<g>
+<path d="M -1060,1100 L -1074,1092 L -1074,1108 Z" stroke="#000000" stroke-width="4.0" fill="none"/>
+<text text-anchor="end" x="-1079.0" y="1106.75" fill="#808080" style="font-size:18px">Control_Reg_TH_Assert</text>
+<circle cx="-1060.0" cy="1100.0" r="2.0" stroke="#0000b2" stroke-width="4.0" fill="#0000b2" />
+</g>
+<g>
+<path d="M -1060,1160 L -1074,1152 L -1074,1168 Z" stroke="#000000" stroke-width="4.0" fill="none"/>
+<text text-anchor="end" x="-1079.0" y="1166.75" fill="#808080" style="font-size:18px">Control_Reg_TL_Load</text>
+<circle cx="-1060.0" cy="1160.0" r="2.0" stroke="#0000b2" stroke-width="4.0" fill="#0000b2" />
+</g>
+<g>
+<path d="M -1060,1180 L -1074,1172 L -1074,1188 Z" stroke="#000000" stroke-width="4.0" fill="none"/>
+<text text-anchor="end" x="-1079.0" y="1186.75" fill="#808080" style="font-size:18px">Control_Reg_TH_Load</text>
+<circle cx="-1060.0" cy="1180.0" r="2.0" stroke="#0000b2" stroke-width="4.0" fill="#0000b2" />
+</g>
+<g>
+<text text-anchor="start" x="-678.0" y="1136.0" fill="#000000" style="font-size:24px">Register_TX</text>
+<text text-anchor="start" x="-678.0" y="1162.0" fill="#000000" style="font-size:24px">?</text>
+<circle cx="-680.0" cy="1140.0" r="2.0" stroke="#0000b2" stroke-width="4.0" fill="#0000b2" />
+</g>
+<g>
+<path d="M 620,960 L 606,952 L 606,968 Z" stroke="#000000" stroke-width="4.0" fill="none"/>
+<text text-anchor="end" x="601.0" y="966.75" fill="#808080" style="font-size:18px">BUS_Xfer</text>
+<circle cx="620.0" cy="960.0" r="2.0" stroke="#0000b2" stroke-width="4.0" fill="#0000b2" />
+</g>
+<g>
+<text text-anchor="start" x="662.0" y="956.0" fill="#000000" style="font-size:24px">BUS_Xfer</text>
+<text text-anchor="start" x="662.0" y="982.0" fill="#000000" style="font-size:24px">?</text>
+<circle cx="660.0" cy="960.0" r="2.0" stroke="#0000b2" stroke-width="4.0" fill="#0000b2" />
 </g>
 </g>
 </svg>
