@@ -34,7 +34,7 @@ DATA Polling for End of Write Detection not implemented!</string>
         </entry>
         <entry>
           <string>Label</string>
-          <string>PROGMEM</string>
+          <string>1\_PROGMEM</string>
         </entry>
         <entry>
           <string>Bits</string>

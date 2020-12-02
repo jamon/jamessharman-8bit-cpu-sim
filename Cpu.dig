@@ -323,7 +323,7 @@
         </entry>
         <entry>
           <string>NetName</string>
-          <string>CarrySelectB</string>
+          <string>CarrySelectBDelayed</string>
         </entry>
       </elementAttributes>
       <pos x="540" y="-220"/>
@@ -337,7 +337,7 @@
         </entry>
         <entry>
           <string>NetName</string>
-          <string>CarrySelectA</string>
+          <string>CarrySelectADelayed</string>
         </entry>
       </elementAttributes>
       <pos x="540" y="-240"/>
@@ -3365,7 +3365,7 @@
         </entry>
         <entry>
           <string>Data</string>
-          <data>0,d0,e0,cc</data>
+          <data>0,10,20,c,4c,80,40,83,43,f</data>
         </entry>
         <entry>
           <string>lastDataFile</string>
@@ -4822,6 +4822,54 @@
       </elementAttributes>
       <pos x="660" y="960"/>
     </visualElement>
+    <visualElement>
+      <elementName>Tunnel</elementName>
+      <elementAttributes>
+        <entry>
+          <string>rotation</string>
+          <rotation rotation="2"/>
+        </entry>
+        <entry>
+          <string>NetName</string>
+          <string>CarrySelectB</string>
+        </entry>
+      </elementAttributes>
+      <pos x="-320" y="-180"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Tunnel</elementName>
+      <elementAttributes>
+        <entry>
+          <string>rotation</string>
+          <rotation rotation="2"/>
+        </entry>
+        <entry>
+          <string>NetName</string>
+          <string>CarrySelectA</string>
+        </entry>
+      </elementAttributes>
+      <pos x="-320" y="-200"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Tunnel</elementName>
+      <elementAttributes>
+        <entry>
+          <string>NetName</string>
+          <string>CarrySelectBDelayed</string>
+        </entry>
+      </elementAttributes>
+      <pos x="60" y="-200"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Tunnel</elementName>
+      <elementAttributes>
+        <entry>
+          <string>NetName</string>
+          <string>CarrySelectADelayed</string>
+        </entry>
+      </elementAttributes>
+      <pos x="60" y="-220"/>
+    </visualElement>
   </visualElements>
   <wires>
     <wire>
@@ -5453,6 +5501,10 @@
       <p2 x="-1040" y="-180"/>
     </wire>
     <wire>
+      <p1 x="-320" y="-180"/>
+      <p2 x="-280" y="-180"/>
+    </wire>
+    <wire>
       <p1 x="3200" y="820"/>
       <p2 x="3240" y="820"/>
     </wire>
@@ -5717,6 +5769,14 @@
       <p2 x="580" y="-200"/>
     </wire>
     <wire>
+      <p1 x="-320" y="-200"/>
+      <p2 x="-280" y="-200"/>
+    </wire>
+    <wire>
+      <p1 x="20" y="-200"/>
+      <p2 x="60" y="-200"/>
+    </wire>
+    <wire>
       <p1 x="1760" y="1480"/>
       <p2 x="1800" y="1480"/>
     </wire>
@@ -5927,6 +5987,10 @@
     <wire>
       <p1 x="3200" y="600"/>
       <p2 x="3240" y="600"/>
+    </wire>
+    <wire>
+      <p1 x="20" y="-220"/>
+      <p2 x="60" y="-220"/>
     </wire>
     <wire>
       <p1 x="-1080" y="-220"/>
